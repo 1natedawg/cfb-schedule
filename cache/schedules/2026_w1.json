@@ -1,0 +1,4619 @@
+{
+  "season": 2026,
+  "week": 1,
+  "week_label": "2026 Week 1",
+  "date_range": "Aug 27 - Sep 7",
+  "time_slots": [
+    {
+      "slot_label": "Sat, Sep 5 • 3:30 PM",
+      "slot_utc": "2026-09-05T19:30:00.000Z",
+      "games": [
+        {
+          "id": "401856666",
+          "neutral_site": false,
+          "location": "Neyland Stadium",
+          "broadcast": "SECN+",
+          "home_team": {
+            "name": "Tennessee",
+            "short_name": "Tennessee",
+            "conference": "SEC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Furman",
+            "short_name": "Furman",
+            "conference": "Southern",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Tennessee -49.5",
+            "over_under": 66.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401856777",
+          "neutral_site": false,
+          "location": "Nippert Stadium",
+          "broadcast": "FOX",
+          "home_team": {
+            "name": "Cincinnati",
+            "short_name": "Cincinnati",
+            "conference": "Big 12",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Boston College",
+            "short_name": "Boston College",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Cincinnati -7",
+            "over_under": 51.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401862694",
+          "neutral_site": false,
+          "location": "Jerry Richardson Stadium",
+          "broadcast": "ESPN+",
+          "home_team": {
+            "name": "Charlotte",
+            "short_name": "Charlotte",
+            "conference": "American Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "The Citadel",
+            "short_name": "The Citadel",
+            "conference": "Southern",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Charlotte -20.5",
+            "over_under": 49.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401862696",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Navy",
+            "short_name": "Navy",
+            "conference": "American Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Towson",
+            "short_name": "Towson",
+            "conference": "Coastal Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Navy -31.5",
+            "over_under": 50.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401864499",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "North Dakota State",
+            "short_name": "North Dakota State",
+            "conference": "Mountain West",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Fordham",
+            "short_name": "Fordham",
+            "conference": "Patriot",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "North Dakota State -41.5",
+            "over_under": 54.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401862700",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "UTSA",
+            "short_name": "UTSA",
+            "conference": "American Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "UT Rio Grande Valley",
+            "short_name": "UT Rio Grande Valley",
+            "conference": "Southland",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "UTSA -28.5",
+            "over_under": 59.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401866627",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "App State",
+            "short_name": "App State",
+            "conference": "Sun Belt",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Maine",
+            "short_name": "Maine",
+            "conference": "Coastal Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "App State -20.5",
+            "over_under": 53.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401856667",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Texas",
+            "short_name": "Texas",
+            "conference": "SEC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Texas State",
+            "short_name": "Texas State",
+            "conference": "Pac-12",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Texas -29.5",
+            "over_under": 60.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401858209",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Duke",
+            "short_name": "Duke",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Tulane",
+            "short_name": "Tulane",
+            "conference": "American Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Duke -9.5",
+            "over_under": 51.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401856636",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Auburn",
+            "short_name": "Auburn",
+            "conference": "SEC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Baylor",
+            "short_name": "Baylor",
+            "conference": "Big 12",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Auburn -6.5",
+            "over_under": 58.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401858433",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Oregon",
+            "short_name": "Oregon",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Boise State",
+            "short_name": "Boise State",
+            "conference": "Pac-12",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Oregon -24.5",
+            "over_under": 52.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401858434",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Penn State",
+            "short_name": "Penn State",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Marshall",
+            "short_name": "Marshall",
+            "conference": "Sun Belt",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Penn State -23.5",
+            "over_under": 53.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401866625",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Campbell",
+            "short_name": "Campbell",
+            "conference": "Coastal Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Western Carolina",
+            "short_name": "Western Carolina",
+            "conference": "Southern",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Western Carolina -4",
+            "over_under": 68.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 5 • 2:00 PM",
+      "slot_utc": "2026-09-05T18:00:00.000Z",
+      "games": [
+        {
+          "id": "401862698",
+          "neutral_site": false,
+          "location": "Lincoln Financial Field",
+          "broadcast": "ESPN+",
+          "home_team": {
+            "name": "Temple",
+            "short_name": "Temple",
+            "conference": "American Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Rhode Island",
+            "short_name": "Rhode Island",
+            "conference": "Coastal Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Temple -14.5",
+            "over_under": 51.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401866624",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Monmouth",
+            "short_name": "Monmouth",
+            "conference": "Coastal Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Sacred Heart",
+            "short_name": "Sacred Heart",
+            "conference": "Coastal Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Monmouth -12.5",
+            "over_under": 58.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 5 • 4:15 PM",
+      "slot_utc": "2026-09-05T20:15:00.000Z",
+      "games": [
+        {
+          "id": "401856635",
+          "neutral_site": false,
+          "location": "Razorback Stadium",
+          "broadcast": "SEC Network",
+          "home_team": {
+            "name": "Arkansas",
+            "short_name": "Arkansas",
+            "conference": "SEC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "North Alabama",
+            "short_name": "North Alabama",
+            "conference": "UAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Arkansas -40.5",
+            "over_under": 63.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401858426",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Iowa",
+            "short_name": "Iowa",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Northern Illinois",
+            "short_name": "Northern Illinois",
+            "conference": "Mountain West",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Iowa -31.5",
+            "over_under": 44.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 5 • 12:00 PM",
+      "slot_utc": "2026-09-05T16:00:00.000Z",
+      "games": [
+        {
+          "id": "401869960",
+          "neutral_site": false,
+          "location": "Bridgeforth Stadium",
+          "broadcast": "ESPNU",
+          "home_team": {
+            "name": "James Madison",
+            "short_name": "James Madison",
+            "conference": "Sun Belt",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Liberty",
+            "short_name": "Liberty",
+            "conference": "Conference USA",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "James Madison -6",
+            "over_under": 50.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401858208",
+          "neutral_site": false,
+          "location": "JMA Wireless Dome",
+          "broadcast": "ACC Network",
+          "home_team": {
+            "name": "Syracuse",
+            "short_name": "Syracuse",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "New Hampshire",
+            "short_name": "New Hampshire",
+            "conference": "Coastal Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Syracuse -35.5",
+            "over_under": 56.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401862701",
+          "neutral_site": false,
+          "location": "Michie Stadium",
+          "broadcast": "CBSSN",
+          "home_team": {
+            "name": "Army",
+            "short_name": "Army",
+            "conference": "American Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Bryant",
+            "short_name": "Bryant",
+            "conference": "Coastal Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Army -37.5",
+            "over_under": 51.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401861962",
+          "neutral_site": false,
+          "location": "Pratt & Whitney Stadium",
+          "broadcast": "UConn+",
+          "home_team": {
+            "name": "UConn",
+            "short_name": "UConn",
+            "conference": "FBS Independents",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Lafayette",
+            "short_name": "Lafayette",
+            "conference": "Patriot",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "UConn -21.5",
+            "over_under": 51.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401866410",
+          "neutral_site": false,
+          "location": "Doyt L. Perry Stadium",
+          "broadcast": "ESPN+",
+          "home_team": {
+            "name": "Bowling Green",
+            "short_name": "Bowling Green",
+            "conference": "Mid-American",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Tarleton State",
+            "short_name": "Tarleton State",
+            "conference": "UAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Bowling Green -1.5",
+            "over_under": 49.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401858425",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Indiana",
+            "short_name": "Indiana",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "North Texas",
+            "short_name": "North Texas",
+            "conference": "American Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Indiana -39.5",
+            "over_under": 56.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401858430",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Nebraska",
+            "short_name": "Nebraska",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Ohio",
+            "short_name": "Ohio",
+            "conference": "Mid-American",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Nebraska -23.5",
+            "over_under": 47.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401856634",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Alabama",
+            "short_name": "Alabama",
+            "conference": "SEC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "East Carolina",
+            "short_name": "East Carolina",
+            "conference": "American Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Alabama -27.5",
+            "over_under": 52.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401856778",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Houston",
+            "short_name": "Houston",
+            "conference": "Big 12",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Oregon State",
+            "short_name": "Oregon State",
+            "conference": "Pac-12",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Houston -21",
+            "over_under": 50.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401867924",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "New Haven",
+            "short_name": "New Haven",
+            "conference": "NEC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Stonehill",
+            "short_name": "Stonehill",
+            "conference": "NEC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "New Haven -6.5",
+            "over_under": 42.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401856780",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "West Virginia",
+            "short_name": "West Virginia",
+            "conference": "Big 12",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Coastal Carolina",
+            "short_name": "Coastal Carolina",
+            "conference": "Sun Belt",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "West Virginia -21",
+            "over_under": 54.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 5 • 1:00 PM",
+      "slot_utc": "2026-09-05T17:00:00.000Z",
+      "games": [
+        {
+          "id": "401856779",
+          "neutral_site": false,
+          "location": "Jack Trice Stadium",
+          "broadcast": "ESPN+",
+          "home_team": {
+            "name": "Iowa State",
+            "short_name": "Iowa State",
+            "conference": "Big 12",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Southeast Missouri State",
+            "short_name": "Southeast Missouri State",
+            "conference": "OVC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Iowa State -29.5",
+            "over_under": 52.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401856659",
+          "neutral_site": false,
+          "location": "Kroger Field",
+          "broadcast": "SECN+",
+          "home_team": {
+            "name": "Kentucky",
+            "short_name": "Kentucky",
+            "conference": "SEC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Youngstown State",
+            "short_name": "Youngstown State",
+            "conference": "MVFC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Kentucky -22.5",
+            "over_under": 61.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401868000",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Colgate",
+            "short_name": "Colgate",
+            "conference": "Patriot",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Holy Cross",
+            "short_name": "Holy Cross",
+            "conference": "Patriot",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Colgate -4.5",
+            "over_under": 49.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401864496",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Air Force",
+            "short_name": "Air Force",
+            "conference": "Mountain West",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Duquesne",
+            "short_name": "Duquesne",
+            "conference": "NEC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Air Force -31.5",
+            "over_under": 55.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Thu, Sep 3 • 7:00 PM",
+      "slot_utc": "2026-09-03T23:00:00.000Z",
+      "games": [
+        {
+          "id": "401856767",
+          "neutral_site": false,
+          "location": "FBC Mortgage Stadium",
+          "broadcast": "ESPN+",
+          "home_team": {
+            "name": "UCF",
+            "short_name": "UCF",
+            "conference": "Big 12",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Bethune-Cookman",
+            "short_name": "Bethune-Cookman",
+            "conference": "SWAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "UCF -43.5",
+            "over_under": 58.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401866409",
+          "neutral_site": false,
+          "location": "UB Stadium",
+          "broadcast": "ESPN+",
+          "home_team": {
+            "name": "Buffalo",
+            "short_name": "Buffalo",
+            "conference": "Mid-American",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "UAlbany",
+            "short_name": "UAlbany",
+            "conference": "Coastal Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Buffalo -18.5",
+            "over_under": 47.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401864424",
+          "neutral_site": false,
+          "location": "Delaware Stadium",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Delaware",
+            "short_name": "Delaware",
+            "conference": "Conference USA",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Merrimack",
+            "short_name": "Merrimack",
+            "conference": "FCS Independents",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Delaware -31.5",
+            "over_under": 56.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401864425",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Kennesaw State",
+            "short_name": "Kennesaw State",
+            "conference": "Conference USA",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "West Georgia",
+            "short_name": "West Georgia",
+            "conference": "UAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Kennesaw State -22.5",
+            "over_under": 50.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401867889",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Samford",
+            "short_name": "Samford",
+            "conference": "Southern",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Southern Illinois",
+            "short_name": "Southern Illinois",
+            "conference": "MVFC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Southern Illinois -20.5",
+            "over_under": 54.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401866622",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Stony Brook",
+            "short_name": "Stony Brook",
+            "conference": "Coastal Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Lindenwood",
+            "short_name": "Lindenwood",
+            "conference": "OVC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Stony Brook -4",
+            "over_under": 50.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401858204",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Wake Forest",
+            "short_name": "Wake Forest",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Akron",
+            "short_name": "Akron",
+            "conference": "Mid-American",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Wake Forest -27.5",
+            "over_under": 50.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 5 • 3:00 PM",
+      "slot_utc": "2026-09-05T19:00:00.000Z",
+      "games": [
+        {
+          "id": "401856658",
+          "neutral_site": false,
+          "location": "Sanford Stadium",
+          "broadcast": "SECN+",
+          "home_team": {
+            "name": "Georgia",
+            "short_name": "Georgia",
+            "conference": "SEC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Tennessee State",
+            "short_name": "Tennessee State",
+            "conference": "OVC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Georgia -49.5",
+            "over_under": 55.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401868111",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Montana",
+            "short_name": "Montana",
+            "conference": "Big Sky",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Drake",
+            "short_name": "Drake",
+            "conference": "Pioneer",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Montana -35.5",
+            "over_under": 60.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Fri, Sep 4 • 7:00 PM",
+      "slot_utc": "2026-09-04T23:00:00.000Z",
+      "games": [
+        {
+          "id": "401866623",
+          "neutral_site": false,
+          "location": "Center Parc Stadium",
+          "broadcast": "ESPN+",
+          "home_team": {
+            "name": "Georgia State",
+            "short_name": "Georgia State",
+            "conference": "Sun Belt",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "North Carolina A&T",
+            "short_name": "North Carolina A&T",
+            "conference": "Coastal Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Georgia State -28.5",
+            "over_under": 58.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401858435",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Purdue",
+            "short_name": "Purdue",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Indiana State",
+            "short_name": "Indiana State",
+            "conference": "MVFC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Purdue -34.5",
+            "over_under": 55.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Thu, Sep 3 • 8:00 PM",
+      "slot_utc": "2026-09-04T00:00:00.000Z",
+      "games": [
+        {
+          "id": "401858422",
+          "neutral_site": false,
+          "location": "Huntington Bank Stadium",
+          "broadcast": "Peacock",
+          "home_team": {
+            "name": "Minnesota",
+            "short_name": "Minnesota",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Eastern Illinois",
+            "short_name": "Eastern Illinois",
+            "conference": "OVC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Minnesota -42.5",
+            "over_under": 52.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401856663",
+          "neutral_site": false,
+          "location": "Memorial Stadium",
+          "broadcast": "SEC Network",
+          "home_team": {
+            "name": "Missouri",
+            "short_name": "Missouri",
+            "conference": "SEC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Arkansas-Pine Bluff",
+            "short_name": "Arkansas-Pine Bluff",
+            "conference": "SWAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Missouri -55.5",
+            "over_under": 62.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401856776",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Georgia Tech",
+            "short_name": "Georgia Tech",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Colorado",
+            "short_name": "Colorado",
+            "conference": "Big 12",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Georgia Tech -6.5",
+            "over_under": 53.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Fri, Sep 4 • 8:00 PM",
+      "slot_utc": "2026-09-05T00:00:00.000Z",
+      "games": [
+        {
+          "id": "401856769",
+          "neutral_site": false,
+          "location": "Memorial Stadium",
+          "broadcast": "ESPNU",
+          "home_team": {
+            "name": "Kansas",
+            "short_name": "Kansas",
+            "conference": "Big 12",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Long Island University",
+            "short_name": "Long Island University",
+            "conference": "NEC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Kansas -44.5",
+            "over_under": 57.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401856664",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Oklahoma",
+            "short_name": "Oklahoma",
+            "conference": "SEC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "UTEP",
+            "short_name": "UTEP",
+            "conference": "Mountain West",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Oklahoma -40.5",
+            "over_under": 51.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401858429",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Michigan State",
+            "short_name": "Michigan State",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Toledo",
+            "short_name": "Toledo",
+            "conference": "Mid-American",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Michigan State -10",
+            "over_under": 48.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 5 • 10:00 PM",
+      "slot_utc": "2026-09-06T02:00:00.000Z",
+      "games": [
+        {
+          "id": "401866411",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Sacramento State",
+            "short_name": "Sacramento State",
+            "conference": "Mid-American",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Mississippi Valley State",
+            "short_name": "Mississippi Valley State",
+            "conference": "SWAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Sacramento State -37.5",
+            "over_under": 56.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401856774",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Arizona State",
+            "short_name": "Arizona State",
+            "conference": "Big 12",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Morgan State",
+            "short_name": "Morgan State",
+            "conference": "MEAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Arizona State -43.5",
+            "over_under": 52.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401864498",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "New Mexico",
+            "short_name": "New Mexico",
+            "conference": "Mountain West",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Central Michigan",
+            "short_name": "Central Michigan",
+            "conference": "Mid-American",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "New Mexico -10.5",
+            "over_under": 47.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401864497",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Hawai'i",
+            "short_name": "Hawai'i",
+            "conference": "Mountain West",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "UNLV",
+            "short_name": "UNLV",
+            "conference": "Mountain West",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "UNLV -3",
+            "over_under": 55.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401868163",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "San Diego",
+            "short_name": "San Diego",
+            "conference": "Pioneer",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "UC Davis",
+            "short_name": "UC Davis",
+            "conference": "Big Sky",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "UC Davis -14.5",
+            "over_under": 54.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 5 • 8:00 PM",
+      "slot_utc": "2026-09-06T00:00:00.000Z",
+      "games": [
+        {
+          "id": "401856775",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "BYU",
+            "short_name": "BYU",
+            "conference": "Big 12",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Utah Tech",
+            "short_name": "Utah Tech",
+            "conference": "Big Sky",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "BYU -50.5",
+            "over_under": 61.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401858431",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Northwestern",
+            "short_name": "Northwestern",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "South Dakota State",
+            "short_name": "South Dakota State",
+            "conference": "MVFC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Northwestern -14",
+            "over_under": 49.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401858427",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Maryland",
+            "short_name": "Maryland",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Hampton",
+            "short_name": "Hampton",
+            "conference": "Coastal Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Maryland -45.5",
+            "over_under": 56.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401869142",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Louisiana",
+            "short_name": "Louisiana",
+            "conference": "Sun Belt",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Lamar",
+            "short_name": "Lamar",
+            "conference": "Southland",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Louisiana -20.5",
+            "over_under": 48.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401867883",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Northern Colorado",
+            "short_name": "Northern Colorado",
+            "conference": "Big Sky",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "South Dakota",
+            "short_name": "South Dakota",
+            "conference": "MVFC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "South Dakota -20.5",
+            "over_under": 56.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401868158",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Southern Utah",
+            "short_name": "Southern Utah",
+            "conference": "Big Sky",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Weber State",
+            "short_name": "Weber State",
+            "conference": "Big Sky",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Southern Utah -14.5",
+            "over_under": 58.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401868306",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Stephen F. Austin",
+            "short_name": "Stephen F. Austin",
+            "conference": "Southland",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "East Texas A&M",
+            "short_name": "East Texas A&M",
+            "conference": "Southland",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Stephen F. Austin -23.5",
+            "over_under": 55.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401867845",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Western Illinois",
+            "short_name": "Western Illinois",
+            "conference": "OVC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Illinois State",
+            "short_name": "Illinois State",
+            "conference": "MVFC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Illinois State -20.5",
+            "over_under": 58.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 5 • 7:00 PM",
+      "slot_utc": "2026-09-05T23:00:00.000Z",
+      "games": [
+        {
+          "id": "401868140",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Jacksonville State",
+            "short_name": "Jacksonville State",
+            "conference": "Conference USA",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Eastern Kentucky",
+            "short_name": "Eastern Kentucky",
+            "conference": "UAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Jacksonville State -22.5",
+            "over_under": 51.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401856669",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Vanderbilt",
+            "short_name": "Vanderbilt",
+            "conference": "SEC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Austin Peay",
+            "short_name": "Austin Peay",
+            "conference": "UAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Vanderbilt -28.5",
+            "over_under": 57.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401856770",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Texas Tech",
+            "short_name": "Texas Tech",
+            "conference": "Big 12",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Abilene Christian",
+            "short_name": "Abilene Christian",
+            "conference": "UAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Texas Tech -45.5",
+            "over_under": 60.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401862697",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Rice",
+            "short_name": "Rice",
+            "conference": "American Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Houston Christian",
+            "short_name": "Houston Christian",
+            "conference": "Southland",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Rice -22.5",
+            "over_under": 47.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401868170",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Georgia Southern",
+            "short_name": "Georgia Southern",
+            "conference": "Sun Belt",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Charleston Southern",
+            "short_name": "Charleston Southern",
+            "conference": "OVC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Georgia Southern -28.5",
+            "over_under": 51.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401856771",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Kansas State",
+            "short_name": "Kansas State",
+            "conference": "Big 12",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Nicholls",
+            "short_name": "Nicholls",
+            "conference": "Southland",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Kansas State -41.5",
+            "over_under": 55.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401860880",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Utah State",
+            "short_name": "Utah State",
+            "conference": "Pac-12",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Idaho State",
+            "short_name": "Idaho State",
+            "conference": "Big Sky",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Utah State -15.5",
+            "over_under": 59.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401868316",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "South Alabama",
+            "short_name": "South Alabama",
+            "conference": "Sun Belt",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "SE Louisiana",
+            "short_name": "SE Louisiana",
+            "conference": "Southland",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "South Alabama -13.5",
+            "over_under": 53.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401867866",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Middle Tennessee",
+            "short_name": "Middle Tennessee",
+            "conference": "Conference USA",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Murray State",
+            "short_name": "Murray State",
+            "conference": "MVFC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Middle Tennessee -22.5",
+            "over_under": 55.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401862699",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "South Florida",
+            "short_name": "South Florida",
+            "conference": "American Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Florida International",
+            "short_name": "Florida International",
+            "conference": "Conference USA",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "South Florida -14.5",
+            "over_under": 53.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401870763",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Troy",
+            "short_name": "Troy",
+            "conference": "Sun Belt",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Sam Houston",
+            "short_name": "Sam Houston",
+            "conference": "Conference USA",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Troy -16.5",
+            "over_under": 52.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401868071",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Central Arkansas",
+            "short_name": "Central Arkansas",
+            "conference": "UAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "West Florida",
+            "short_name": "West Florida",
+            "conference": "UAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Central Arkansas -7.5",
+            "over_under": 55.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401868085",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Eastern Washington",
+            "short_name": "Eastern Washington",
+            "conference": "Big Sky",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Northern Iowa",
+            "short_name": "Northern Iowa",
+            "conference": "MVFC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Eastern Washington -7",
+            "over_under": 52.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401867684",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "UT Martin",
+            "short_name": "UT Martin",
+            "conference": "OVC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Chicago State",
+            "short_name": "Chicago State",
+            "conference": "FCS Independents",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "UT Martin -45.5",
+            "over_under": 61.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401862695",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Memphis",
+            "short_name": "Memphis",
+            "conference": "American Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Arkansas State",
+            "short_name": "Arkansas State",
+            "conference": "Sun Belt",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Memphis -10.5",
+            "over_under": 52.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401856668",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Texas A&M",
+            "short_name": "Texas A&M",
+            "conference": "SEC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Missouri State",
+            "short_name": "Missouri State",
+            "conference": "Conference USA",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Texas A&M -38.5",
+            "over_under": 53.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 5 • 9:30 PM",
+      "slot_utc": "2026-09-06T01:30:00.000Z",
+      "games": [
+        {
+          "id": "401856773",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Arizona",
+            "short_name": "Arizona",
+            "conference": "Big 12",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Northern Arizona",
+            "short_name": "Northern Arizona",
+            "conference": "Big Sky",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Arizona -32.5",
+            "over_under": 59.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401860879",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "San Diego State",
+            "short_name": "San Diego State",
+            "conference": "Pac-12",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Portland State",
+            "short_name": "Portland State",
+            "conference": "Big Sky",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "San Diego State -38.5",
+            "over_under": 62.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 5 • 7:30 PM",
+      "slot_utc": "2026-09-05T23:30:00.000Z",
+      "games": [
+        {
+          "id": "401869129",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Louisiana Tech",
+            "short_name": "Louisiana Tech",
+            "conference": "Sun Belt",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Northwestern State",
+            "short_name": "Northwestern State",
+            "conference": "Southland",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Louisiana Tech -44.5",
+            "over_under": 56.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401858211",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Virginia Tech",
+            "short_name": "Virginia Tech",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "VMI",
+            "short_name": "VMI",
+            "conference": "Southern",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Virginia Tech -54.5",
+            "over_under": 60.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401858428",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Michigan",
+            "short_name": "Michigan",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Western Michigan",
+            "short_name": "Western Michigan",
+            "conference": "Mid-American",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Michigan -27.5",
+            "over_under": 49.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401856660",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "LSU",
+            "short_name": "LSU",
+            "conference": "SEC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Clemson",
+            "short_name": "Clemson",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "LSU -10",
+            "over_under": 48.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401856662",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Mississippi State",
+            "short_name": "Mississippi State",
+            "conference": "SEC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "UL Monroe",
+            "short_name": "UL Monroe",
+            "conference": "Sun Belt",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Mississippi State -28.5",
+            "over_under": 54.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 5 • 6:00 PM",
+      "slot_utc": "2026-09-05T22:00:00.000Z",
+      "games": [
+        {
+          "id": "401867973",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Old Dominion",
+            "short_name": "Old Dominion",
+            "conference": "Sun Belt",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Norfolk State",
+            "short_name": "Norfolk State",
+            "conference": "MEAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Old Dominion -41.5",
+            "over_under": 52.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401860878",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Colorado State",
+            "short_name": "Colorado State",
+            "conference": "Pac-12",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Wyoming",
+            "short_name": "Wyoming",
+            "conference": "Mountain West",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Colorado State -2.5",
+            "over_under": 46.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401866626",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Davidson",
+            "short_name": "Davidson",
+            "conference": "Pioneer",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Elon",
+            "short_name": "Elon",
+            "conference": "Coastal Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Elon -32.5",
+            "over_under": 58.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401868336",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Chattanooga",
+            "short_name": "Chattanooga",
+            "conference": "Southern",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Tennessee Tech",
+            "short_name": "Tennessee Tech",
+            "conference": "Southern",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Tennessee Tech -10.5",
+            "over_under": 48.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401867989",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Bucknell",
+            "short_name": "Bucknell",
+            "conference": "Patriot",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Villanova",
+            "short_name": "Villanova",
+            "conference": "Patriot",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Villanova -22.5",
+            "over_under": 54.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401869127",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Howard",
+            "short_name": "Howard",
+            "conference": "MEAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Richmond",
+            "short_name": "Richmond",
+            "conference": "Patriot",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Richmond -14",
+            "over_under": 43.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401867692",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "William & Mary",
+            "short_name": "William & Mary",
+            "conference": "Patriot",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Delaware State",
+            "short_name": "Delaware State",
+            "conference": "MEAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "William & Mary -9.5",
+            "over_under": 54.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401868274",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Mercer",
+            "short_name": "Mercer",
+            "conference": "Southern",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Presbyterian",
+            "short_name": "Presbyterian",
+            "conference": "Pioneer",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Mercer -22.5",
+            "over_under": 54.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 5 • 5:00 PM",
+      "slot_utc": "2026-09-05T21:00:00.000Z",
+      "games": [
+        {
+          "id": "401868356",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Southern Miss",
+            "short_name": "Southern Miss",
+            "conference": "Sun Belt",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Alcorn State",
+            "short_name": "Alcorn State",
+            "conference": "SWAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Southern Miss -19.5",
+            "over_under": 51.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Thu, Sep 3 • 6:00 PM",
+      "slot_utc": "2026-09-03T22:00:00.000Z",
+      "games": [
+        {
+          "id": "401858423",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Rutgers",
+            "short_name": "Rutgers",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Massachusetts",
+            "short_name": "Massachusetts",
+            "conference": "Mid-American",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Rutgers -29.5",
+            "over_under": 54.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Thu, Sep 3 • 9:00 PM",
+      "slot_utc": "2026-09-04T01:00:00.000Z",
+      "games": [
+        {
+          "id": "401856768",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Utah",
+            "short_name": "Utah",
+            "conference": "Big 12",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Idaho",
+            "short_name": "Idaho",
+            "conference": "Big Sky",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Utah -37.5",
+            "over_under": 60.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401858424",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Illinois",
+            "short_name": "Illinois",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "UAB",
+            "short_name": "UAB",
+            "conference": "American Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Illinois -25.5",
+            "over_under": 54.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 5 • 9:00 PM",
+      "slot_utc": "2026-09-06T01:00:00.000Z",
+      "games": [
+        {
+          "id": "401870790",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "New Mexico State",
+            "short_name": "New Mexico State",
+            "conference": "Conference USA",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Mercyhurst",
+            "short_name": "Mercyhurst",
+            "conference": "NEC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "New Mexico State -29.5",
+            "over_under": 52.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Thu, Aug 27 • 6:00 PM",
+      "slot_utc": "2026-08-27T22:00:00.000Z",
+      "games": [
+        {
+          "id": "401867894",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Youngstown State",
+            "short_name": "Youngstown State",
+            "conference": "MVFC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Mercyhurst",
+            "short_name": "Mercyhurst",
+            "conference": "NEC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": null,
+            "over_under": null,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401866615",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Delaware State",
+            "short_name": "Delaware State",
+            "conference": "MEAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Stony Brook",
+            "short_name": "Stony Brook",
+            "conference": "Coastal Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": null,
+            "over_under": null,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401866532",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Towson",
+            "short_name": "Towson",
+            "conference": "Coastal Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Maine",
+            "short_name": "Maine",
+            "conference": "Coastal Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": null,
+            "over_under": null,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Fri, Aug 28 • 9:00 PM",
+      "slot_utc": "2026-08-29T01:00:00.000Z",
+      "games": [
+        {
+          "id": "401868129",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Northern Colorado",
+            "short_name": "Northern Colorado",
+            "conference": "Big Sky",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Weber State",
+            "short_name": "Weber State",
+            "conference": "Big Sky",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Northern Colorado -3",
+            "over_under": 50.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Fri, Aug 28 • 6:00 PM",
+      "slot_utc": "2026-08-28T22:00:00.000Z",
+      "games": [
+        {
+          "id": "401866617",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Merrimack",
+            "short_name": "Merrimack",
+            "conference": "FCS Independents",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Rhode Island",
+            "short_name": "Rhode Island",
+            "conference": "Coastal Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Rhode Island -20.5",
+            "over_under": 47.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401868040",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Villanova",
+            "short_name": "Villanova",
+            "conference": "Patriot",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "William & Mary",
+            "short_name": "William & Mary",
+            "conference": "Patriot",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Villanova -12.5",
+            "over_under": 47.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401868261",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "New Haven",
+            "short_name": "New Haven",
+            "conference": "NEC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Marist",
+            "short_name": "Marist",
+            "conference": "Pioneer",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "New Haven -2.5",
+            "over_under": 46.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401868007",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Fordham",
+            "short_name": "Fordham",
+            "conference": "Patriot",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Colgate",
+            "short_name": "Colgate",
+            "conference": "Patriot",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Colgate -8.5",
+            "over_under": 55.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Aug 29 • 3:00 PM",
+      "slot_utc": "2026-08-29T19:00:00.000Z",
+      "games": [
+        {
+          "id": "401868324",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Alabama State",
+            "short_name": "Alabama State",
+            "conference": "SWAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Southern",
+            "short_name": "Southern",
+            "conference": "SWAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Alabama State -19.5",
+            "over_under": 56.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401868154",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Portland State",
+            "short_name": "Portland State",
+            "conference": "Big Sky",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "UC Davis",
+            "short_name": "UC Davis",
+            "conference": "Big Sky",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "UC Davis -25.5",
+            "over_under": 60.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401864494",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "USC",
+            "short_name": "USC",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "San José State",
+            "short_name": "San José State",
+            "conference": "Mountain West",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "USC -37.5",
+            "over_under": 61.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Fri, Aug 28 • 7:00 PM",
+      "slot_utc": "2026-08-28T23:00:00.000Z",
+      "games": [
+        {
+          "id": "401866616",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "UAlbany",
+            "short_name": "UAlbany",
+            "conference": "Coastal Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "New Hampshire",
+            "short_name": "New Hampshire",
+            "conference": "Coastal Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "New Hampshire -10",
+            "over_under": 46.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Aug 29 • 2:00 PM",
+      "slot_utc": "2026-08-29T18:00:00.000Z",
+      "games": [
+        {
+          "id": "401867882",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "South Dakota",
+            "short_name": "South Dakota",
+            "conference": "MVFC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Central Connecticut",
+            "short_name": "Central Connecticut",
+            "conference": "NEC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "South Dakota -21.5",
+            "over_under": 49.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Aug 29 • 12:00 PM",
+      "slot_utc": "2026-08-29T16:00:00.000Z",
+      "games": [
+        {
+          "id": "401867916",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Wagner",
+            "short_name": "Wagner",
+            "conference": "NEC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Robert Morris",
+            "short_name": "Robert Morris",
+            "conference": "NEC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Wagner -5.5",
+            "over_under": 40.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401856766",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "TCU",
+            "short_name": "TCU",
+            "conference": "Big 12",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "North Carolina",
+            "short_name": "North Carolina",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "TCU -7.5",
+            "over_under": 46.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Mon, Sep 7 • 7:30 PM",
+      "slot_utc": "2026-09-07T23:30:00.000Z",
+      "games": [
+        {
+          "id": "401858212",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Florida State",
+            "short_name": "Florida State",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "SMU",
+            "short_name": "SMU",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "SMU -2.5",
+            "over_under": 54.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Aug 29 • 7:00 PM",
+      "slot_utc": "2026-08-29T23:00:00.000Z",
+      "games": [
+        {
+          "id": "401858201",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Stanford",
+            "short_name": "Stanford",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Hawai'i",
+            "short_name": "Hawai'i",
+            "conference": "Mountain West",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Stanford -4.5",
+            "over_under": 48.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401866621",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Tennessee Tech",
+            "short_name": "Tennessee Tech",
+            "conference": "Southern",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Monmouth",
+            "short_name": "Monmouth",
+            "conference": "Coastal Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Tennessee Tech -8.5",
+            "over_under": 58.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401867977",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Texas Southern",
+            "short_name": "Texas Southern",
+            "conference": "SWAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "North Carolina Central",
+            "short_name": "North Carolina Central",
+            "conference": "MEAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "North Carolina Central -10.5",
+            "over_under": 51.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401868049",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Lamar",
+            "short_name": "Lamar",
+            "conference": "Southland",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Abilene Christian",
+            "short_name": "Abilene Christian",
+            "conference": "UAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Abilene Christian -7.5",
+            "over_under": 49.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401874042",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Mercer",
+            "short_name": "Mercer",
+            "conference": "Southern",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "East Texas A&M",
+            "short_name": "East Texas A&M",
+            "conference": "Southland",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Mercer -22.5",
+            "over_under": 57.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401868139",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Western Carolina",
+            "short_name": "Western Carolina",
+            "conference": "Southern",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Eastern Kentucky",
+            "short_name": "Eastern Kentucky",
+            "conference": "UAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Western Carolina -3",
+            "over_under": 54.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401872615",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "South Dakota State",
+            "short_name": "South Dakota State",
+            "conference": "MVFC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Stetson",
+            "short_name": "Stetson",
+            "conference": "Pioneer",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "South Dakota State -50.5",
+            "over_under": 58.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401868149",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "North Alabama",
+            "short_name": "North Alabama",
+            "conference": "UAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Samford",
+            "short_name": "Samford",
+            "conference": "Southern",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "North Alabama -7",
+            "over_under": 55.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401868305",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "McNeese",
+            "short_name": "McNeese",
+            "conference": "Southland",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Stephen F. Austin",
+            "short_name": "Stephen F. Austin",
+            "conference": "Southland",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Stephen F. Austin -12.5",
+            "over_under": 49.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401864570",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Florida State",
+            "short_name": "Florida State",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "New Mexico State",
+            "short_name": "New Mexico State",
+            "conference": "Conference USA",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Florida State -31.5",
+            "over_under": 53.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Fri, Sep 4 • 9:00 PM",
+      "slot_utc": "2026-09-05T01:00:00.000Z",
+      "games": [
+        {
+          "id": "401858436",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "USC",
+            "short_name": "USC",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Fresno State",
+            "short_name": "Fresno State",
+            "conference": "Pac-12",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "USC -21.5",
+            "over_under": 51.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401858206",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Stanford",
+            "short_name": "Stanford",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Miami",
+            "short_name": "Miami",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Miami -24.5",
+            "over_under": 46.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Aug 29 • 5:30 PM",
+      "slot_utc": "2026-08-29T21:30:00.000Z",
+      "games": [
+        {
+          "id": "401866620",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "East Tennessee State",
+            "short_name": "East Tennessee State",
+            "conference": "Southern",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Campbell",
+            "short_name": "Campbell",
+            "conference": "Coastal Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "East Tennessee State -7",
+            "over_under": 56.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401864577",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "North Dakota State",
+            "short_name": "North Dakota State",
+            "conference": "Mountain West",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Jacksonville State",
+            "short_name": "Jacksonville State",
+            "conference": "Conference USA",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "North Dakota State -6.5",
+            "over_under": 46.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Aug 29 • 6:00 PM",
+      "slot_utc": "2026-08-29T22:00:00.000Z",
+      "games": [
+        {
+          "id": "401868101",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Idaho State",
+            "short_name": "Idaho State",
+            "conference": "Big Sky",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "VMI",
+            "short_name": "VMI",
+            "conference": "Southern",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Idaho State -34.5",
+            "over_under": 53.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401866619",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Stonehill",
+            "short_name": "Stonehill",
+            "conference": "NEC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Bryant",
+            "short_name": "Bryant",
+            "conference": "Coastal Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Bryant -4.5",
+            "over_under": 45.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401868394",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Wofford",
+            "short_name": "Wofford",
+            "conference": "Southern",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "The Citadel",
+            "short_name": "The Citadel",
+            "conference": "Southern",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Wofford -7.5",
+            "over_under": 45.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401867855",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Indiana State",
+            "short_name": "Indiana State",
+            "conference": "MVFC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Southeast Missouri State",
+            "short_name": "Southeast Missouri State",
+            "conference": "OVC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Indiana State -2.5",
+            "over_under": 52.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401866618",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "North Carolina A&T",
+            "short_name": "North Carolina A&T",
+            "conference": "Coastal Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Morgan State",
+            "short_name": "Morgan State",
+            "conference": "MEAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Morgan State -7",
+            "over_under": 49.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401867988",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Richmond",
+            "short_name": "Richmond",
+            "conference": "Patriot",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Bucknell",
+            "short_name": "Bucknell",
+            "conference": "Patriot",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Richmond -12.5",
+            "over_under": 48.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sun, Sep 6 • 4:00 PM",
+      "slot_utc": "2026-09-06T20:00:00.000Z",
+      "games": [
+        {
+          "id": "401858437",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Washington",
+            "short_name": "Washington",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Washington State",
+            "short_name": "Washington State",
+            "conference": "Pac-12",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Washington -23.5",
+            "over_under": 51.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 5 • 3:45 PM",
+      "slot_utc": "2026-09-05T19:45:00.000Z",
+      "games": [
+        {
+          "id": "401856772",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Tulsa",
+            "short_name": "Tulsa",
+            "conference": "American Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Oklahoma State",
+            "short_name": "Oklahoma State",
+            "conference": "Big 12",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Oklahoma State -13.5",
+            "over_under": 57.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Aug 29 • 5:00 PM",
+      "slot_utc": "2026-08-29T21:00:00.000Z",
+      "games": [
+        {
+          "id": "401868084",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Northern Arizona",
+            "short_name": "Northern Arizona",
+            "conference": "Big Sky",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Eastern Washington",
+            "short_name": "Eastern Washington",
+            "conference": "Big Sky",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Northern Arizona -5.5",
+            "over_under": 55.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Aug 29 • 3:30 PM",
+      "slot_utc": "2026-08-29T19:30:00.000Z",
+      "games": [
+        {
+          "id": "401868022",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Holy Cross",
+            "short_name": "Holy Cross",
+            "conference": "Patriot",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Lehigh",
+            "short_name": "Lehigh",
+            "conference": "Patriot",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Lehigh -14",
+            "over_under": 47.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401858202",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Virginia",
+            "short_name": "Virginia",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "NC State",
+            "short_name": "NC State",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Virginia -4",
+            "over_under": 50.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Aug 29 • 10:00 PM",
+      "slot_utc": "2026-08-30T02:00:00.000Z",
+      "games": [
+        {
+          "id": "401862693",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "UNLV",
+            "short_name": "UNLV",
+            "conference": "Mountain West",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Memphis",
+            "short_name": "Memphis",
+            "conference": "American Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "UNLV -4",
+            "over_under": 55.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401868118",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Utah Tech",
+            "short_name": "Utah Tech",
+            "conference": "Big Sky",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Montana State",
+            "short_name": "Montana State",
+            "conference": "Big Sky",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Montana State -32.5",
+            "over_under": 57.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Aug 29 • 7:30 PM",
+      "slot_utc": "2026-08-29T23:30:00.000Z",
+      "games": [
+        {
+          "id": "401867935",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Howard",
+            "short_name": "Howard",
+            "conference": "MEAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Alabama A&M",
+            "short_name": "Alabama A&M",
+            "conference": "SWAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Howard -1.5",
+            "over_under": 46.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Aug 29 • 9:00 PM",
+      "slot_utc": "2026-08-30T01:00:00.000Z",
+      "games": [
+        {
+          "id": "401868110",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Montana",
+            "short_name": "Montana",
+            "conference": "Big Sky",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Southern Utah",
+            "short_name": "Southern Utah",
+            "conference": "Big Sky",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Montana -15.5",
+            "over_under": 59.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401868235",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Tarleton State",
+            "short_name": "Tarleton State",
+            "conference": "UAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Prairie View A&M",
+            "short_name": "Prairie View A&M",
+            "conference": "SWAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Tarleton State -19.5",
+            "over_under": 54.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Aug 29 • 8:30 PM",
+      "slot_utc": "2026-08-30T00:30:00.000Z",
+      "games": [
+        {
+          "id": "401868194",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Tennessee State",
+            "short_name": "Tennessee State",
+            "conference": "OVC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Jackson State",
+            "short_name": "Jackson State",
+            "conference": "SWAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Jackson State -12.5",
+            "over_under": 49.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Fri, Aug 28 • 10:00 PM",
+      "slot_utc": "2026-08-29T02:00:00.000Z",
+      "games": [
+        {
+          "id": "401868073",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Cal Poly",
+            "short_name": "Cal Poly",
+            "conference": "Big Sky",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Idaho",
+            "short_name": "Idaho",
+            "conference": "Big Sky",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Idaho -5.5",
+            "over_under": 53.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Aug 29 • 6:30 PM",
+      "slot_utc": "2026-08-29T22:30:00.000Z",
+      "games": [
+        {
+          "id": "401866408",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Eastern Michigan",
+            "short_name": "Eastern Michigan",
+            "conference": "Mid-American",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Sacramento State",
+            "short_name": "Sacramento State",
+            "conference": "Mid-American",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Eastern Michigan -8.5",
+            "over_under": 52.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Thu, Aug 27 • 7:00 PM",
+      "slot_utc": "2026-08-27T23:00:00.000Z",
+      "games": [
+        {
+          "id": "401867865",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Murray State",
+            "short_name": "Murray State",
+            "conference": "MVFC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Eastern Illinois",
+            "short_name": "Eastern Illinois",
+            "conference": "OVC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": null,
+            "over_under": null,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401868060",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Austin Peay",
+            "short_name": "Austin Peay",
+            "conference": "UAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Gardner-Webb",
+            "short_name": "Gardner-Webb",
+            "conference": "OVC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": null,
+            "over_under": null,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401868240",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "West Georgia",
+            "short_name": "West Georgia",
+            "conference": "UAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Chattanooga",
+            "short_name": "Chattanooga",
+            "conference": "Southern",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": null,
+            "over_under": null,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401868315",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "SE Louisiana",
+            "short_name": "SE Louisiana",
+            "conference": "Southland",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Houston Christian",
+            "short_name": "Houston Christian",
+            "conference": "Southland",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": null,
+            "over_under": null,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401868962",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Nicholls",
+            "short_name": "Nicholls",
+            "conference": "Southland",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Mississippi Valley State",
+            "short_name": "Mississippi Valley State",
+            "conference": "SWAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": null,
+            "over_under": null,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401874035",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "West Florida",
+            "short_name": "West Florida",
+            "conference": "UAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Southern Illinois",
+            "short_name": "Southern Illinois",
+            "conference": "MVFC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": null,
+            "over_under": null,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401868169",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Lindenwood",
+            "short_name": "Lindenwood",
+            "conference": "OVC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Charleston Southern",
+            "short_name": "Charleston Southern",
+            "conference": "OVC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": null,
+            "over_under": null,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Thu, Aug 27 • 7:30 PM",
+      "slot_utc": "2026-08-27T23:30:00.000Z",
+      "games": [
+        {
+          "id": "401868070",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "UT Martin",
+            "short_name": "UT Martin",
+            "conference": "OVC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Central Arkansas",
+            "short_name": "Central Arkansas",
+            "conference": "UAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": null,
+            "over_under": null,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Thu, Aug 27 • 8:00 PM",
+      "slot_utc": "2026-08-28T00:00:00.000Z",
+      "games": [
+        {
+          "id": "401867874",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "North Dakota",
+            "short_name": "North Dakota",
+            "conference": "MVFC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Long Island University",
+            "short_name": "Long Island University",
+            "conference": "NEC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": null,
+            "over_under": null,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 5 • 12:45 PM",
+      "slot_utc": "2026-09-05T16:45:00.000Z",
+      "games": [
+        {
+          "id": "401856665",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "South Carolina",
+            "short_name": "South Carolina",
+            "conference": "SEC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Kent State",
+            "short_name": "Kent State",
+            "conference": "Mid-American",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "South Carolina -35.5",
+            "over_under": 53.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sun, Sep 6 • 7:30 PM",
+      "slot_utc": "2026-09-06T23:30:00.000Z",
+      "games": [
+        {
+          "id": "401858438",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Notre Dame",
+            "short_name": "Notre Dame",
+            "conference": "FBS Independents",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Wisconsin",
+            "short_name": "Wisconsin",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Notre Dame -21",
+            "over_under": 46.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401856661",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Ole Miss",
+            "short_name": "Ole Miss",
+            "conference": "SEC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Louisville",
+            "short_name": "Louisville",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Ole Miss -6.5",
+            "over_under": 55.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 5 • 10:30 PM",
+      "slot_utc": "2026-09-06T02:30:00.000Z",
+      "games": [
+        {
+          "id": "401858210",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "California",
+            "short_name": "California",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "UCLA",
+            "short_name": "UCLA",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "UCLA -2.5",
+            "over_under": 53.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401864432",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Nevada",
+            "short_name": "Nevada",
+            "conference": "Mountain West",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Western Kentucky",
+            "short_name": "Western Kentucky",
+            "conference": "Conference USA",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Western Kentucky -1.5",
+            "over_under": 51.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 5 • 7:45 PM",
+      "slot_utc": "2026-09-05T23:45:00.000Z",
+      "games": [
+        {
+          "id": "401856637",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Florida",
+            "short_name": "Florida",
+            "conference": "SEC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Florida Atlantic",
+            "short_name": "Florida Atlantic",
+            "conference": "American Athletic",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Florida -25.5",
+            "over_under": 59.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 5 • 8:30 PM",
+      "slot_utc": "2026-09-06T00:30:00.000Z",
+      "games": [
+        {
+          "id": "401868119",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Montana State",
+            "short_name": "Montana State",
+            "conference": "Big Sky",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Butler",
+            "short_name": "Butler",
+            "conference": "Pioneer",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Montana State -45.5",
+            "over_under": 59.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sun, Sep 6 • 12:00 PM",
+      "slot_utc": "2026-09-06T16:00:00.000Z",
+      "games": [
+        {
+          "id": "401868967",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Prairie View A&M",
+            "short_name": "Prairie View A&M",
+            "conference": "SWAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Texas Southern",
+            "short_name": "Texas Southern",
+            "conference": "SWAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Prairie View A&M -10.5",
+            "over_under": 54.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sun, Sep 6 • 3:00 PM",
+      "slot_utc": "2026-09-06T19:00:00.000Z",
+      "games": [
+        {
+          "id": "401867939",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Florida A&M",
+            "short_name": "Florida A&M",
+            "conference": "SWAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "South Carolina State",
+            "short_name": "South Carolina State",
+            "conference": "MEAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "South Carolina State -19.5",
+            "over_under": 54.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 5 • 1:30 PM",
+      "slot_utc": "2026-09-05T17:30:00.000Z",
+      "games": [
+        {
+          "id": "401868186",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Wofford",
+            "short_name": "Wofford",
+            "conference": "Southern",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Gardner-Webb",
+            "short_name": "Gardner-Webb",
+            "conference": "OVC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Wofford -8.5",
+            "over_under": 50.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Fri, Sep 4 • 6:30 PM",
+      "slot_utc": "2026-09-04T22:30:00.000Z",
+      "games": [
+        {
+          "id": "401864495",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Eastern Michigan",
+            "short_name": "Eastern Michigan",
+            "conference": "Mid-American",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "San José State",
+            "short_name": "San José State",
+            "conference": "Mountain West",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Eastern Michigan -1.5",
+            "over_under": 55.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 5 • 12:30 PM",
+      "slot_utc": "2026-09-05T16:30:00.000Z",
+      "games": [
+        {
+          "id": "401858207",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Pittsburgh",
+            "short_name": "Pittsburgh",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Miami (OH)",
+            "short_name": "Miami (OH)",
+            "conference": "Mid-American",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Pittsburgh -16.5",
+            "over_under": 47.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401868017",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Georgetown",
+            "short_name": "Georgetown",
+            "conference": "Patriot",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Lehigh",
+            "short_name": "Lehigh",
+            "conference": "Patriot",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Lehigh -22.5",
+            "over_under": 46.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401858432",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Ohio State",
+            "short_name": "Ohio State",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "Ball State",
+            "short_name": "Ball State",
+            "conference": "Mid-American",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Ohio State -49.5",
+            "over_under": 55.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 5 • 4:00 PM",
+      "slot_utc": "2026-09-05T20:00:00.000Z",
+      "games": [
+        {
+          "id": "401867875",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "North Dakota",
+            "short_name": "North Dakota",
+            "conference": "MVFC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "away_team": {
+            "name": "St. Thomas (MN)",
+            "short_name": "St. Thomas (MN)",
+            "conference": "Pioneer",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "North Dakota -28.5",
+            "over_under": 53.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    }
+  ]
+}

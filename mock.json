@@ -1,0 +1,64 @@
+{
+  "season": 2026,
+  "week": 1,
+  "week_label": "2026 Week 1",
+  "date_range": "Aug 30 - Sep 5",
+  "time_slots": [
+    {
+      "slot_label": "Saturday, Sep 5 • 3:30 PM",
+      "slot_utc": "2026-09-05T19:30:00Z",
+      "games": [
+        {
+          "id": "game_2026_w1_01",
+          "neutral_site": false,
+          "location": "Ohio Stadium, Columbus, OH",
+          "broadcast": "FOX",
+          "home_team": {
+            "name": "Ohio State Buckeyes",
+            "short_name": "OSU",
+            "conference": "Big Ten",
+            "rank": 2,
+            "logo_url": "/logos/ohiostate.png"
+          },
+          "away_team": {
+            "name": "Texas Longhorns",
+            "short_name": "TEX",
+            "conference": "SEC",
+            "rank": 5,
+            "logo_url": "/logos/texas.png"
+          },
+          "odds": {
+            "spread": "OSU -3.5",
+            "over_under": 54.5,
+            "predicted_spread": "OSU -6.5"
+          }
+        },
+        {
+          "id": "game_2026_w1_02",
+          "neutral_site": false,
+          "location": "Bryant-Denny Stadium, Tuscaloosa, AL",
+          "broadcast": "ABC",
+          "home_team": {
+            "name": "Alabama Crimson Tide",
+            "short_name": "ALA",
+            "conference": "SEC",
+            "rank": 4,
+            "logo_url": "/logos/alabama.png"
+          },
+          "away_team": {
+            "name": "Western Kentucky Hilltoppers",
+            "short_name": "WKU",
+            "conference": "CUSA",
+            "rank": null,
+            "logo_url": "/logos/wku.png"
+          },
+          "odds": {
+            "spread": "ALA -28.5",
+            "over_under": 61.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    }
+  ]
+}
