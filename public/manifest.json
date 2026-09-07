@@ -1,0 +1,15 @@
+{
+  "name": "CFB Schedules & Lines",
+  "short_name": "CFB",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B0F19",
+  "theme_color": "#0B0F19",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "1408x768",
+      "type": "image/png"
+    }
+  ]
+}
