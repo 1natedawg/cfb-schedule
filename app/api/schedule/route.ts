@@ -44,12 +44,39 @@ export async function GET(request: Request) {
 
     const cacheDir = path.join(process.cwd(), 'cache', 'schedules');
     const cacheFile = path.join(cacheDir, `${year}_w${week}.json`);
+    const fbsConferenceAffiliations = await fs.readFile(path.join(process.cwd(), 'cache', 'conferences', `${year}.json`), 'utf-8')
+        .then(JSON.parse)
+        .catch(() => []);
+    const fbsTeams = Array.isArray(fbsConferenceAffiliations)
+        ? fbsConferenceAffiliations
+            .map((affiliation) => affiliation.team)
+            .filter((team): team is string => typeof team === 'string')
+        : [];
+    const cachedLogos = await fs.readFile(path.join(process.cwd(), 'cache', 'logos', `${year}.json`), 'utf-8')
+        .then(JSON.parse)
+        .catch(() => []);
+    const logos: Record<string, string> = {};
+    for (const team of Array.isArray(cachedLogos) ? cachedLogos : []) {
+        const logoUrl = Array.isArray(team.logos) ? team.logos[0] : '';
+        if (!logoUrl) continue;
 
+        for (const teamName of [team.school, team.mascot, `${team.school} ${team.mascot}`, ...(team.alternateNames ?? [])]) {
+            if (typeof teamName === 'string') {
+                logos[teamName] = logoUrl;
+            }
+        }
+    }
     try {
         // 1. Check if cached JSON file already exists
         try {
             const cachedData = await fs.readFile(cacheFile, 'utf-8');
-            return NextResponse.json(JSON.parse(cachedData));
+            const parsedCache = JSON.parse(cachedData);
+            const cachedGames = parsedCache.time_slots?.flatMap((slot: { games?: Array<{ home_team?: { logo_url?: string }; away_team?: { logo_url?: string } }> }) => slot.games ?? []) ?? [];
+            const cacheHasLogos = cachedGames.some((game: { home_team?: { logo_url?: string }; away_team?: { logo_url?: string } }) => game.home_team?.logo_url || game.away_team?.logo_url);
+
+            if (cachedGames.length === 0 || cacheHasLogos) {
+                return NextResponse.json(parsedCache);
+            }
         } catch {
             // File doesn't exist yet, proceed to fetch
         }
@@ -106,6 +133,13 @@ export async function GET(request: Request) {
         }>();
 
         for (const game of rawGames) {
+            // Check if one of the teams is in the FBS conference affiliations for the given year
+            const homeTeamIsFbs = fbsTeams.includes(game.homeTeam);
+            const awayTeamIsFbs = fbsTeams.includes(game.awayTeam);
+            if (!homeTeamIsFbs && !awayTeamIsFbs) {
+                console.log(`Skipping game ${game.id} as neither team is in FBS for year ${year}`);
+                continue; // Skip this game if neither team is in FBS
+            }
             const slot = timeSlots.get(game.startDate) ?? {
                 slot_label: `${formatGameTime(game.startDate).date} • ${formatGameTime(game.startDate).time}`,
                 slot_utc: game.startDate,
@@ -123,14 +157,14 @@ export async function GET(request: Request) {
                     short_name: game.homeTeam,
                     conference: game.homeConference ?? 'Independent',
                     rank: null,
-                    logo_url: '',
+                    logo_url: logos[game.homeTeam] ?? '',
                 },
                 away_team: {
                     name: game.awayTeam,
                     short_name: game.awayTeam,
                     conference: game.awayConference ?? 'Independent',
                     rank: null,
-                    logo_url: '',
+                    logo_url: logos[game.awayTeam] ?? '',
                 },
                 odds: {
                     spread: draftKingsLine?.formattedSpread ?? null,

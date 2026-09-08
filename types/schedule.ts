@@ -4,14 +4,26 @@ export interface Team {
   conference: string;
   rank: number | null;
   logo_url: string;
+  logo?: string | null;
 }
 
 export interface GameOdds {
   spread: string | null;
   over_under: number | null;
-  predicted_spread: string | null;
+  predicted_spread: string | null; // e.g., "OSU -6.5"
 }
 
+// NEW: Interface for live score data from your provider
+export interface LiveScoreData {
+  id: string; // API-specific game ID used for matching
+  status: 'scheduled' | 'in_progress' | 'completed';
+  clock: string | null; // e.g., "14:52"
+  period: number | null; // e.g., 4 (Quarter)
+  home_score: number;
+  away_score: number;
+}
+
+// EXTENDED: The Game object used in the UI now holds optional live data
 export interface Game {
   id: string;
   neutral_site: boolean;
@@ -19,7 +31,10 @@ export interface Game {
   broadcast: string;
   home_team: Team;
   away_team: Team;
+  slot_utc?: string; // Optional property for the time slot's UTC time
   odds: GameOdds;
+  // Add this optional property
+  live_data?: LiveScoreData; 
 }
 
 export interface TimeSlot {

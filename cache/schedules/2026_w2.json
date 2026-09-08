@@ -18,14 +18,14 @@
             "short_name": "Iowa",
             "conference": "Big Ten",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2294.png"
           },
           "away_team": {
             "name": "Iowa State",
             "short_name": "Iowa State",
             "conference": "Big 12",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/66.png"
           },
           "odds": {
             "spread": "Iowa -14.5",
@@ -43,43 +43,18 @@
             "short_name": "Texas",
             "conference": "SEC",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/251.png"
           },
           "away_team": {
             "name": "Ohio State",
             "short_name": "Ohio State",
             "conference": "Big Ten",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/194.png"
           },
           "odds": {
             "spread": "Texas -1.5",
             "over_under": 48.5,
-            "predicted_spread": null
-          }
-        },
-        {
-          "id": "401858219",
-          "neutral_site": false,
-          "location": "N/A",
-          "broadcast": "N/A",
-          "home_team": {
-            "name": "Clemson",
-            "short_name": "Clemson",
-            "conference": "ACC",
-            "rank": null,
-            "logo_url": ""
-          },
-          "away_team": {
-            "name": "Georgia Southern",
-            "short_name": "Georgia Southern",
-            "conference": "Sun Belt",
-            "rank": null,
-            "logo_url": ""
-          },
-          "odds": {
-            "spread": "Clemson -21",
-            "over_under": 55.5,
             "predicted_spread": null
           }
         },
@@ -93,18 +68,43 @@
             "short_name": "Oregon State",
             "conference": "Pac-12",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/204.png"
           },
           "away_team": {
             "name": "Texas Tech",
             "short_name": "Texas Tech",
             "conference": "Big 12",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2641.png"
           },
           "odds": {
             "spread": "Texas Tech -26.5",
             "over_under": 51.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401858219",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Clemson",
+            "short_name": "Clemson",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/228.png"
+          },
+          "away_team": {
+            "name": "Georgia Southern",
+            "short_name": "Georgia Southern",
+            "conference": "Sun Belt",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/290.png"
+          },
+          "odds": {
+            "spread": "Clemson -20.5",
+            "over_under": 55.5,
             "predicted_spread": null
           }
         },
@@ -118,17 +118,17 @@
             "short_name": "LSU",
             "conference": "SEC",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/99.png"
           },
           "away_team": {
             "name": "Louisiana Tech",
             "short_name": "Louisiana Tech",
             "conference": "Sun Belt",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2348.png"
           },
           "odds": {
-            "spread": "LSU -34.5",
+            "spread": "LSU -35.5",
             "over_under": 55.5,
             "predicted_spread": null
           }
@@ -143,17 +143,17 @@
             "short_name": "Florida Atlantic",
             "conference": "American Athletic",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2226.png"
           },
           "away_team": {
             "name": "Navy",
             "short_name": "Navy",
             "conference": "American Athletic",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2426.png"
           },
           "odds": {
-            "spread": "Navy -5.5",
+            "spread": "Navy -4.5",
             "over_under": 59.5,
             "predicted_spread": null
           }
@@ -168,7 +168,7 @@
             "short_name": "Coastal Carolina",
             "conference": "Sun Belt",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/324.png"
           },
           "away_team": {
             "name": "Fordham",
@@ -199,14 +199,14 @@
             "short_name": "Kansas",
             "conference": "Big 12",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2305.png"
           },
           "away_team": {
             "name": "Missouri",
             "short_name": "Missouri",
             "conference": "SEC",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/142.png"
           },
           "odds": {
             "spread": "Missouri -5.5",
@@ -230,14 +230,14 @@
             "short_name": "Oklahoma State",
             "conference": "Big 12",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/197.png"
           },
           "away_team": {
             "name": "Oregon",
             "short_name": "Oregon",
             "conference": "Big Ten",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2483.png"
           },
           "odds": {
             "spread": "Oregon -22.5",
@@ -255,14 +255,14 @@
             "short_name": "Michigan",
             "conference": "Big Ten",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/130.png"
           },
           "away_team": {
             "name": "Oklahoma",
             "short_name": "Oklahoma",
             "conference": "SEC",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/201.png"
           },
           "odds": {
             "spread": "Oklahoma -5.5",
@@ -280,14 +280,14 @@
             "short_name": "Texas A&M",
             "conference": "SEC",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/245.png"
           },
           "away_team": {
             "name": "Arizona State",
             "short_name": "Arizona State",
             "conference": "Big 12",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/9.png"
           },
           "odds": {
             "spread": "Texas A&M -14.5",
@@ -305,14 +305,14 @@
             "short_name": "Virginia Tech",
             "conference": "ACC",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/259.png"
           },
           "away_team": {
             "name": "Old Dominion",
             "short_name": "Old Dominion",
             "conference": "Sun Belt",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/295.png"
           },
           "odds": {
             "spread": "Virginia Tech -18.5",
@@ -323,21 +323,21 @@
         {
           "id": "401858442",
           "neutral_site": false,
-          "location": "Lincoln Financial Field",
-          "broadcast": "ESPN2",
+          "location": "N/A",
+          "broadcast": "N/A",
           "home_team": {
             "name": "Temple",
             "short_name": "Temple",
             "conference": "American Athletic",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/218.png"
           },
           "away_team": {
             "name": "Penn State",
             "short_name": "Penn State",
             "conference": "Big Ten",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/213.png"
           },
           "odds": {
             "spread": "Penn State -23.5",
@@ -348,25 +348,25 @@
         {
           "id": "401862702",
           "neutral_site": false,
-          "location": "Michie Stadium",
-          "broadcast": "CBSSN",
+          "location": "N/A",
+          "broadcast": "N/A",
           "home_team": {
             "name": "Army",
             "short_name": "Army",
             "conference": "American Athletic",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/349.png"
           },
           "away_team": {
             "name": "South Florida",
             "short_name": "South Florida",
             "conference": "American Athletic",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/58.png"
           },
           "odds": {
             "spread": "Army -3.5",
-            "over_under": 48.5,
+            "over_under": 47.5,
             "predicted_spread": null
           }
         },
@@ -380,17 +380,17 @@
             "short_name": "Kansas State",
             "conference": "Big 12",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2306.png"
           },
           "away_team": {
             "name": "Washington State",
             "short_name": "Washington State",
             "conference": "Pac-12",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/265.png"
           },
           "odds": {
-            "spread": "Kansas State -17.5",
+            "spread": "Kansas State -18.5",
             "over_under": 49.5,
             "predicted_spread": null
           }
@@ -405,14 +405,14 @@
             "short_name": "East Carolina",
             "conference": "American Athletic",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/151.png"
           },
           "away_team": {
             "name": "App State",
             "short_name": "App State",
             "conference": "Sun Belt",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2026.png"
           },
           "odds": {
             "spread": "East Carolina -8.5",
@@ -430,14 +430,14 @@
             "short_name": "Purdue",
             "conference": "Big Ten",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2509.png"
           },
           "away_team": {
             "name": "Wake Forest",
             "short_name": "Wake Forest",
             "conference": "ACC",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/154.png"
           },
           "odds": {
             "spread": "Wake Forest -4",
@@ -455,7 +455,7 @@
             "short_name": "North Carolina",
             "conference": "ACC",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/153.png"
           },
           "away_team": {
             "name": "East Tennessee State",
@@ -480,7 +480,7 @@
             "short_name": "Indiana",
             "conference": "Big Ten",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/84.png"
           },
           "away_team": {
             "name": "Howard",
@@ -505,7 +505,7 @@
             "short_name": "Kent State",
             "conference": "Mid-American",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2309.png"
           },
           "away_team": {
             "name": "Wofford",
@@ -536,14 +536,14 @@
             "short_name": "Utah",
             "conference": "Big 12",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/254.png"
           },
           "away_team": {
             "name": "Arkansas",
             "short_name": "Arkansas",
             "conference": "SEC",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/8.png"
           },
           "odds": {
             "spread": "Utah -13.5",
@@ -567,18 +567,18 @@
             "short_name": "Boise State",
             "conference": "Pac-12",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/68.png"
           },
           "away_team": {
             "name": "Memphis",
             "short_name": "Memphis",
             "conference": "American Athletic",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/235.png"
           },
           "odds": {
             "spread": "Boise State -8.5",
-            "over_under": 55.5,
+            "over_under": 54.5,
             "predicted_spread": null
           }
         },
@@ -592,14 +592,14 @@
             "short_name": "Ohio",
             "conference": "Mid-American",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/195.png"
           },
           "away_team": {
             "name": "Jacksonville State",
             "short_name": "Jacksonville State",
             "conference": "Conference USA",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/55.png"
           },
           "odds": {
             "spread": "Ohio -2.5",
@@ -617,14 +617,14 @@
             "short_name": "Florida International",
             "conference": "Conference USA",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2229.png"
           },
           "away_team": {
             "name": "Buffalo",
             "short_name": "Buffalo",
             "conference": "Mid-American",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2084.png"
           },
           "odds": {
             "spread": "Florida International -10.5",
@@ -642,7 +642,7 @@
             "short_name": "Liberty",
             "conference": "Conference USA",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2335.png"
           },
           "away_team": {
             "name": "Gardner-Webb",
@@ -673,14 +673,14 @@
             "short_name": "BYU",
             "conference": "Big 12",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/252.png"
           },
           "away_team": {
             "name": "Arizona",
             "short_name": "Arizona",
             "conference": "Big 12",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/12.png"
           },
           "odds": {
             "spread": "BYU -7.5",
@@ -698,14 +698,14 @@
             "short_name": "Kentucky",
             "conference": "SEC",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/96.png"
           },
           "away_team": {
             "name": "Alabama",
             "short_name": "Alabama",
             "conference": "SEC",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/333.png"
           },
           "odds": {
             "spread": "Alabama -10.5",
@@ -723,14 +723,14 @@
             "short_name": "Texas State",
             "conference": "Pac-12",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/326.png"
           },
           "away_team": {
             "name": "UTSA",
             "short_name": "UTSA",
             "conference": "American Athletic",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2636.png"
           },
           "odds": {
             "spread": "Texas State -1.5",
@@ -748,43 +748,18 @@
             "short_name": "Illinois",
             "conference": "Big Ten",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/356.png"
           },
           "away_team": {
             "name": "Duke",
             "short_name": "Duke",
             "conference": "ACC",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/150.png"
           },
           "odds": {
             "spread": "Illinois -6",
             "over_under": 53.5,
-            "predicted_spread": null
-          }
-        },
-        {
-          "id": "401858446",
-          "neutral_site": false,
-          "location": "Husky Stadium",
-          "broadcast": "BTN",
-          "home_team": {
-            "name": "Washington",
-            "short_name": "Washington",
-            "conference": "Big Ten",
-            "rank": null,
-            "logo_url": ""
-          },
-          "away_team": {
-            "name": "Utah State",
-            "short_name": "Utah State",
-            "conference": "Pac-12",
-            "rank": null,
-            "logo_url": ""
-          },
-          "odds": {
-            "spread": "Washington -26.5",
-            "over_under": 55.5,
             "predicted_spread": null
           }
         },
@@ -798,17 +773,17 @@
             "short_name": "Pittsburgh",
             "conference": "ACC",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/221.png"
           },
           "away_team": {
             "name": "UCF",
             "short_name": "UCF",
             "conference": "Big 12",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2116.png"
           },
           "odds": {
-            "spread": "Pittsburgh -7.5",
+            "spread": "Pittsburgh -7",
             "over_under": 57.5,
             "predicted_spread": null
           }
@@ -823,93 +798,43 @@
             "short_name": "Syracuse",
             "conference": "ACC",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/183.png"
           },
           "away_team": {
             "name": "California",
             "short_name": "California",
             "conference": "ACC",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/25.png"
           },
           "odds": {
-            "spread": "Syracuse -3",
+            "spread": "Syracuse -3.5",
             "over_under": 56.5,
             "predicted_spread": null
           }
         },
         {
-          "id": "401862708",
+          "id": "401858446",
           "neutral_site": false,
-          "location": "Protective Stadium",
-          "broadcast": "ESPN+",
+          "location": "Husky Stadium",
+          "broadcast": "BTN",
           "home_team": {
-            "name": "UAB",
-            "short_name": "UAB",
-            "conference": "American Athletic",
-            "rank": null,
-            "logo_url": ""
-          },
-          "away_team": {
-            "name": "UL Monroe",
-            "short_name": "UL Monroe",
-            "conference": "Sun Belt",
-            "rank": null,
-            "logo_url": ""
-          },
-          "odds": {
-            "spread": "UAB -10.5",
-            "over_under": 55.5,
-            "predicted_spread": null
-          }
-        },
-        {
-          "id": "401859184",
-          "neutral_site": false,
-          "location": "N/A",
-          "broadcast": "N/A",
-          "home_team": {
-            "name": "Notre Dame",
-            "short_name": "Notre Dame",
-            "conference": "FBS Independents",
-            "rank": null,
-            "logo_url": ""
-          },
-          "away_team": {
-            "name": "Rice",
-            "short_name": "Rice",
-            "conference": "American Athletic",
-            "rank": null,
-            "logo_url": ""
-          },
-          "odds": {
-            "spread": "Notre Dame -44.5",
-            "over_under": 54.5,
-            "predicted_spread": null
-          }
-        },
-        {
-          "id": "401858444",
-          "neutral_site": false,
-          "location": "N/A",
-          "broadcast": "N/A",
-          "home_team": {
-            "name": "UConn",
-            "short_name": "UConn",
-            "conference": "FBS Independents",
-            "rank": null,
-            "logo_url": ""
-          },
-          "away_team": {
-            "name": "Maryland",
-            "short_name": "Maryland",
+            "name": "Washington",
+            "short_name": "Washington",
             "conference": "Big Ten",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/264.png"
+          },
+          "away_team": {
+            "name": "Utah State",
+            "short_name": "Utah State",
+            "conference": "Pac-12",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/328.png"
           },
           "odds": {
-            "spread": "Maryland -11.5",
-            "over_under": 53.5,
+            "spread": "Washington -26.5",
+            "over_under": 55.5,
             "predicted_spread": null
           }
         },
@@ -923,18 +848,93 @@
             "short_name": "Michigan State",
             "conference": "Big Ten",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/127.png"
           },
           "away_team": {
             "name": "Eastern Michigan",
             "short_name": "Eastern Michigan",
             "conference": "Mid-American",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2199.png"
           },
           "odds": {
             "spread": "Michigan State -17.5",
             "over_under": 50.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401859184",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Notre Dame",
+            "short_name": "Notre Dame",
+            "conference": "FBS Independents",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/87.png"
+          },
+          "away_team": {
+            "name": "Rice",
+            "short_name": "Rice",
+            "conference": "American Athletic",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/242.png"
+          },
+          "odds": {
+            "spread": "Notre Dame -44.5",
+            "over_under": 54.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401862708",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "UAB",
+            "short_name": "UAB",
+            "conference": "American Athletic",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/5.png"
+          },
+          "away_team": {
+            "name": "UL Monroe",
+            "short_name": "UL Monroe",
+            "conference": "Sun Belt",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2433.png"
+          },
+          "odds": {
+            "spread": "UAB -10.5",
+            "over_under": 55.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401858444",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "UConn",
+            "short_name": "UConn",
+            "conference": "FBS Independents",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/41.png"
+          },
+          "away_team": {
+            "name": "Maryland",
+            "short_name": "Maryland",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/120.png"
+          },
+          "odds": {
+            "spread": "Maryland -12.5",
+            "over_under": 52.5,
             "predicted_spread": null
           }
         },
@@ -948,14 +948,14 @@
             "short_name": "Minnesota",
             "conference": "Big Ten",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/135.png"
           },
           "away_team": {
             "name": "Mississippi State",
             "short_name": "Mississippi State",
             "conference": "SEC",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/344.png"
           },
           "odds": {
             "spread": "Mississippi State -1.5",
@@ -973,7 +973,7 @@
             "short_name": "Massachusetts",
             "conference": "Mid-American",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/113.png"
           },
           "away_team": {
             "name": "Sacred Heart",
@@ -998,7 +998,7 @@
             "short_name": "Toledo",
             "conference": "Mid-American",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2649.png"
           },
           "away_team": {
             "name": "Central Connecticut",
@@ -1023,7 +1023,7 @@
             "short_name": "Colorado",
             "conference": "Big 12",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/38.png"
           },
           "away_team": {
             "name": "Weber State",
@@ -1048,7 +1048,7 @@
             "short_name": "James Madison",
             "conference": "Sun Belt",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/256.png"
           },
           "away_team": {
             "name": "Wagner",
@@ -1073,7 +1073,7 @@
             "short_name": "Akron",
             "conference": "Mid-American",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2006.png"
           },
           "away_team": {
             "name": "Robert Morris",
@@ -1104,14 +1104,14 @@
             "short_name": "Georgia Tech",
             "conference": "ACC",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/59.png"
           },
           "away_team": {
             "name": "Tennessee",
             "short_name": "Tennessee",
             "conference": "SEC",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2633.png"
           },
           "odds": {
             "spread": "Tennessee -12.5",
@@ -1129,14 +1129,14 @@
             "short_name": "Marshall",
             "conference": "Sun Belt",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/276.png"
           },
           "away_team": {
             "name": "Middle Tennessee",
             "short_name": "Middle Tennessee",
             "conference": "Conference USA",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2393.png"
           },
           "odds": {
             "spread": "Marshall -14",
@@ -1154,14 +1154,14 @@
             "short_name": "Tulane",
             "conference": "American Athletic",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2655.png"
           },
           "away_team": {
             "name": "South Alabama",
             "short_name": "South Alabama",
             "conference": "Sun Belt",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/6.png"
           },
           "odds": {
             "spread": "Tulane -9.5",
@@ -1179,14 +1179,14 @@
             "short_name": "Nebraska",
             "conference": "Big Ten",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/158.png"
           },
           "away_team": {
             "name": "Bowling Green",
             "short_name": "Bowling Green",
             "conference": "Mid-American",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/189.png"
           },
           "odds": {
             "spread": "Nebraska -28.5",
@@ -1204,14 +1204,14 @@
             "short_name": "Sam Houston",
             "conference": "Conference USA",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2534.png"
           },
           "away_team": {
             "name": "Tulsa",
             "short_name": "Tulsa",
             "conference": "American Athletic",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/202.png"
           },
           "odds": {
             "spread": "Tulsa -13.5",
@@ -1229,18 +1229,18 @@
             "short_name": "Kennesaw State",
             "conference": "Conference USA",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/338.png"
           },
           "away_team": {
             "name": "Georgia State",
             "short_name": "Georgia State",
             "conference": "Sun Belt",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2247.png"
           },
           "odds": {
-            "spread": "Kennesaw State -8.5",
-            "over_under": 52.5,
+            "spread": "Kennesaw State -9.5",
+            "over_under": 54.5,
             "predicted_spread": null
           }
         },
@@ -1254,7 +1254,7 @@
             "short_name": "Colorado State",
             "conference": "Pac-12",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/36.png"
           },
           "away_team": {
             "name": "Southern Utah",
@@ -1279,7 +1279,7 @@
             "short_name": "Missouri State",
             "conference": "Conference USA",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2623.png"
           },
           "away_team": {
             "name": "Lindenwood",
@@ -1304,7 +1304,7 @@
             "short_name": "Arkansas State",
             "conference": "Sun Belt",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2032.png"
           },
           "away_team": {
             "name": "West Georgia",
@@ -1329,7 +1329,7 @@
             "short_name": "Houston",
             "conference": "Big 12",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/248.png"
           },
           "away_team": {
             "name": "Southern",
@@ -1354,7 +1354,7 @@
             "short_name": "Cincinnati",
             "conference": "Big 12",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2132.png"
           },
           "away_team": {
             "name": "Western Carolina",
@@ -1379,7 +1379,7 @@
             "short_name": "South Carolina",
             "conference": "SEC",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2579.png"
           },
           "away_team": {
             "name": "Towson",
@@ -1404,7 +1404,7 @@
             "short_name": "Northern Illinois",
             "conference": "Mountain West",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2459.png"
           },
           "away_team": {
             "name": "Illinois State",
@@ -1435,14 +1435,14 @@
             "short_name": "UCLA",
             "conference": "Big Ten",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/26.png"
           },
           "away_team": {
             "name": "San Diego State",
             "short_name": "San Diego State",
             "conference": "Pac-12",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/21.png"
           },
           "odds": {
             "spread": "UCLA -11.5",
@@ -1460,7 +1460,7 @@
             "short_name": "Wisconsin",
             "conference": "Big Ten",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/275.png"
           },
           "away_team": {
             "name": "Western Illinois",
@@ -1484,21 +1484,21 @@
         {
           "id": "401862705",
           "neutral_site": false,
-          "location": "DATCU Stadium",
-          "broadcast": "ESPNU",
+          "location": "N/A",
+          "broadcast": "N/A",
           "home_team": {
             "name": "North Texas",
             "short_name": "North Texas",
             "conference": "American Athletic",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/249.png"
           },
           "away_team": {
             "name": "UNLV",
             "short_name": "UNLV",
             "conference": "Mountain West",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2439.png"
           },
           "odds": {
             "spread": "UNLV -3.5",
@@ -1522,14 +1522,14 @@
             "short_name": "USC",
             "conference": "Big Ten",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/30.png"
           },
           "away_team": {
             "name": "Louisiana",
             "short_name": "Louisiana",
             "conference": "Sun Belt",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/309.png"
           },
           "odds": {
             "spread": "USC -31.5",
@@ -1553,14 +1553,14 @@
             "short_name": "Georgia",
             "conference": "SEC",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/61.png"
           },
           "away_team": {
             "name": "Western Kentucky",
             "short_name": "Western Kentucky",
             "conference": "Conference USA",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/98.png"
           },
           "odds": {
             "spread": "Georgia -40.5",
@@ -1584,14 +1584,14 @@
             "short_name": "Hawai'i",
             "conference": "Mountain West",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/62.png"
           },
           "away_team": {
             "name": "New Mexico State",
             "short_name": "New Mexico State",
             "conference": "Conference USA",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/166.png"
           },
           "odds": {
             "spread": "Hawai'i -9.5",
@@ -1615,14 +1615,14 @@
             "short_name": "Ole Miss",
             "conference": "SEC",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/145.png"
           },
           "away_team": {
             "name": "Charlotte",
             "short_name": "Charlotte",
             "conference": "American Athletic",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2429.png"
           },
           "odds": {
             "spread": "Ole Miss -47.5",
@@ -1640,14 +1640,14 @@
             "short_name": "Auburn",
             "conference": "SEC",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2.png"
           },
           "away_team": {
             "name": "Southern Miss",
             "short_name": "Southern Miss",
             "conference": "Sun Belt",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2572.png"
           },
           "odds": {
             "spread": "Auburn -32.5",
@@ -1671,14 +1671,14 @@
             "short_name": "Boston College",
             "conference": "ACC",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/103.png"
           },
           "away_team": {
             "name": "Rutgers",
             "short_name": "Rutgers",
             "conference": "Big Ten",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/164.png"
           },
           "odds": {
             "spread": "Boston College -3.5",
@@ -1702,74 +1702,18 @@
             "short_name": "Vanderbilt",
             "conference": "SEC",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/238.png"
           },
           "away_team": {
             "name": "Delaware",
             "short_name": "Delaware",
             "conference": "Conference USA",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/48.png"
           },
           "odds": {
             "spread": "Vanderbilt -20.5",
             "over_under": 53.5,
-            "predicted_spread": null
-          }
-        }
-      ]
-    },
-    {
-      "slot_label": "Sat, Sep 12 • 10:30 PM",
-      "slot_utc": "2026-09-13T02:30:00.000Z",
-      "games": [
-        {
-          "id": "401860883",
-          "neutral_site": false,
-          "location": "N/A",
-          "broadcast": "N/A",
-          "home_team": {
-            "name": "Fresno State",
-            "short_name": "Fresno State",
-            "conference": "Pac-12",
-            "rank": null,
-            "logo_url": ""
-          },
-          "away_team": {
-            "name": "Sacramento State",
-            "short_name": "Sacramento State",
-            "conference": "Mid-American",
-            "rank": null,
-            "logo_url": ""
-          },
-          "odds": {
-            "spread": "Fresno State -18.5",
-            "over_under": 45.5,
-            "predicted_spread": null
-          }
-        },
-        {
-          "id": "401864500",
-          "neutral_site": false,
-          "location": "N/A",
-          "broadcast": "N/A",
-          "home_team": {
-            "name": "Nevada",
-            "short_name": "Nevada",
-            "conference": "Mountain West",
-            "rank": null,
-            "logo_url": ""
-          },
-          "away_team": {
-            "name": "Montana State",
-            "short_name": "Montana State",
-            "conference": "Big Sky",
-            "rank": null,
-            "logo_url": ""
-          },
-          "odds": {
-            "spread": null,
-            "over_under": null,
             "predicted_spread": null
           }
         }
@@ -1789,18 +1733,186 @@
             "short_name": "Air Force",
             "conference": "Mountain West",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2005.png"
           },
           "away_team": {
             "name": "North Dakota State",
             "short_name": "North Dakota State",
             "conference": "Mountain West",
             "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2449.png"
+          },
+          "odds": {
+            "spread": "North Dakota State -2.5",
+            "over_under": 47.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 12 • 10:30 PM",
+      "slot_utc": "2026-09-13T02:30:00.000Z",
+      "games": [
+        {
+          "id": "401860883",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Fresno State",
+            "short_name": "Fresno State",
+            "conference": "Pac-12",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/278.png"
+          },
+          "away_team": {
+            "name": "Sacramento State",
+            "short_name": "Sacramento State",
+            "conference": "Mid-American",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/16.png"
+          },
+          "odds": {
+            "spread": "Fresno State -18.5",
+            "over_under": 45.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401864500",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Nevada",
+            "short_name": "Nevada",
+            "conference": "Mountain West",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2440.png"
+          },
+          "away_team": {
+            "name": "Montana State",
+            "short_name": "Montana State",
+            "conference": "Big Sky",
+            "rank": null,
             "logo_url": ""
           },
           "odds": {
-            "spread": "North Dakota State -3",
-            "over_under": 47.5,
+            "spread": null,
+            "over_under": null,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Fri, Sep 11 • 7:00 PM",
+      "slot_utc": "2026-09-11T23:00:00.000Z",
+      "games": [
+        {
+          "id": "401858215",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Louisville",
+            "short_name": "Louisville",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/97.png"
+          },
+          "away_team": {
+            "name": "Villanova",
+            "short_name": "Villanova",
+            "conference": "Patriot",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Louisville -36.5",
+            "over_under": 55.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401858220",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Virginia",
+            "short_name": "Virginia",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/258.png"
+          },
+          "away_team": {
+            "name": "Norfolk State",
+            "short_name": "Norfolk State",
+            "conference": "MEAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Virginia -44.5",
+            "over_under": 54.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401858222",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "NC State",
+            "short_name": "NC State",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/152.png"
+          },
+          "away_team": {
+            "name": "Richmond",
+            "short_name": "Richmond",
+            "conference": "Patriot",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "NC State -30.5",
+            "over_under": 48.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Thu, Sep 10 • 8:00 PM",
+      "slot_utc": "2026-09-11T00:00:00.000Z",
+      "games": [
+        {
+          "id": "401858213",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Miami",
+            "short_name": "Miami",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2390.png"
+          },
+          "away_team": {
+            "name": "Florida A&M",
+            "short_name": "Florida A&M",
+            "conference": "SWAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Miami -55.5",
+            "over_under": 61.5,
             "predicted_spread": null
           }
         }
@@ -1820,7 +1932,7 @@
             "short_name": "Florida",
             "conference": "SEC",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/57.png"
           },
           "away_team": {
             "name": "Campbell",
@@ -1851,7 +1963,7 @@
             "short_name": "Miami (OH)",
             "conference": "Mid-American",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/193.png"
           },
           "away_team": {
             "name": "Holy Cross",
@@ -1876,7 +1988,7 @@
             "short_name": "West Virginia",
             "conference": "Big 12",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/277.png"
           },
           "away_team": {
             "name": "UT Martin",
@@ -1901,7 +2013,7 @@
             "short_name": "Central Michigan",
             "conference": "Mid-American",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2117.png"
           },
           "away_team": {
             "name": "Colgate",
@@ -1932,7 +2044,7 @@
             "short_name": "SMU",
             "conference": "ACC",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2567.png"
           },
           "away_team": {
             "name": "UC Davis",
@@ -1957,7 +2069,7 @@
             "short_name": "Troy",
             "conference": "Sun Belt",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2653.png"
           },
           "away_team": {
             "name": "Alabama State",
@@ -1982,7 +2094,7 @@
             "short_name": "Wyoming",
             "conference": "Mountain West",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2751.png"
           },
           "away_team": {
             "name": "Northern Colorado",
@@ -2007,43 +2119,12 @@
             "short_name": "New Mexico",
             "conference": "Mountain West",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/167.png"
           },
           "away_team": {
             "name": "Mercyhurst",
             "short_name": "Mercyhurst",
             "conference": "NEC",
-            "rank": null,
-            "logo_url": ""
-          },
-          "odds": {
-            "spread": null,
-            "over_under": null,
-            "predicted_spread": null
-          }
-        }
-      ]
-    },
-    {
-      "slot_label": "Thu, Sep 10 • 8:00 PM",
-      "slot_utc": "2026-09-11T00:00:00.000Z",
-      "games": [
-        {
-          "id": "401858213",
-          "neutral_site": false,
-          "location": "N/A",
-          "broadcast": "N/A",
-          "home_team": {
-            "name": "Miami",
-            "short_name": "Miami",
-            "conference": "ACC",
-            "rank": null,
-            "logo_url": ""
-          },
-          "away_team": {
-            "name": "Florida A&M",
-            "short_name": "Florida A&M",
-            "conference": "SWAC",
             "rank": null,
             "logo_url": ""
           },
@@ -2069,7 +2150,7 @@
             "short_name": "San José State",
             "conference": "Mountain West",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/23.png"
           },
           "away_team": {
             "name": "Cal Poly",
@@ -2094,93 +2175,12 @@
             "short_name": "UTEP",
             "conference": "Mountain West",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2638.png"
           },
           "away_team": {
             "name": "Texas Southern",
             "short_name": "Texas Southern",
             "conference": "SWAC",
-            "rank": null,
-            "logo_url": ""
-          },
-          "odds": {
-            "spread": null,
-            "over_under": null,
-            "predicted_spread": null
-          }
-        }
-      ]
-    },
-    {
-      "slot_label": "Fri, Sep 11 • 7:00 PM",
-      "slot_utc": "2026-09-11T23:00:00.000Z",
-      "games": [
-        {
-          "id": "401858220",
-          "neutral_site": false,
-          "location": "N/A",
-          "broadcast": "N/A",
-          "home_team": {
-            "name": "Virginia",
-            "short_name": "Virginia",
-            "conference": "ACC",
-            "rank": null,
-            "logo_url": ""
-          },
-          "away_team": {
-            "name": "Norfolk State",
-            "short_name": "Norfolk State",
-            "conference": "MEAC",
-            "rank": null,
-            "logo_url": ""
-          },
-          "odds": {
-            "spread": null,
-            "over_under": null,
-            "predicted_spread": null
-          }
-        },
-        {
-          "id": "401858215",
-          "neutral_site": false,
-          "location": "N/A",
-          "broadcast": "N/A",
-          "home_team": {
-            "name": "Louisville",
-            "short_name": "Louisville",
-            "conference": "ACC",
-            "rank": null,
-            "logo_url": ""
-          },
-          "away_team": {
-            "name": "Villanova",
-            "short_name": "Villanova",
-            "conference": "Patriot",
-            "rank": null,
-            "logo_url": ""
-          },
-          "odds": {
-            "spread": null,
-            "over_under": null,
-            "predicted_spread": null
-          }
-        },
-        {
-          "id": "401858222",
-          "neutral_site": false,
-          "location": "N/A",
-          "broadcast": "N/A",
-          "home_team": {
-            "name": "NC State",
-            "short_name": "NC State",
-            "conference": "ACC",
-            "rank": null,
-            "logo_url": ""
-          },
-          "away_team": {
-            "name": "Richmond",
-            "short_name": "Richmond",
-            "conference": "Patriot",
             "rank": null,
             "logo_url": ""
           },
@@ -2206,7 +2206,7 @@
             "short_name": "Ball State",
             "conference": "Mid-American",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2050.png"
           },
           "away_team": {
             "name": "Stony Brook",
@@ -2237,7 +2237,7 @@
             "short_name": "Baylor",
             "conference": "Big 12",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/239.png"
           },
           "away_team": {
             "name": "Prairie View A&M",
@@ -2262,7 +2262,7 @@
             "short_name": "TCU",
             "conference": "Big 12",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2628.png"
           },
           "away_team": {
             "name": "Grambling",
@@ -2293,7 +2293,7 @@
             "short_name": "Western Michigan",
             "conference": "Mid-American",
             "rank": null,
-            "logo_url": ""
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2711.png"
           },
           "away_team": {
             "name": "Monmouth",
