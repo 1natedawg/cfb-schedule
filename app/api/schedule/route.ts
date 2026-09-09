@@ -38,6 +38,22 @@ export async function GET(request: Request) {
         }
         return outlet;
     }
+
+    async function getOurPrediction(year: number, week: number, homeTeam: string, awayTeam: string): Promise<string | null> {
+        console.log('Fetching prediction for year:', year, 'week:', week, 'home team:', homeTeam, 'away team:', awayTeam);
+        // predictions json are under cache/predictions/{year}_wk{week}.json
+        const predictionsFile = path.join(process.cwd(), 'cache', 'predictions', `${year}_wk${week}.json`);
+        try {
+            const predictionsData = await fs.readFile(predictionsFile, 'utf-8');
+            const predictions = JSON.parse(predictionsData);
+            // need to find an entry in the list where homeTeam and awayTeam match the input parameters
+            const prediction = predictions.find((p: { home_team: string; away_team: string }) => p.home_team === homeTeam && p.away_team === awayTeam);
+            return prediction?.model_home_spread ?? null;
+        } catch (error) {
+            console.error('Error reading predictions file:', error);
+            return null;
+        }
+    }
     const { searchParams } = new URL(request.url);
     const year = searchParams.get('year') || '2026';
     const week = searchParams.get('week') || '1';
@@ -75,6 +91,15 @@ export async function GET(request: Request) {
             const cacheHasLogos = cachedGames.some((game: { home_team?: { logo_url?: string }; away_team?: { logo_url?: string } }) => game.home_team?.logo_url || game.away_team?.logo_url);
 
             if (cachedGames.length === 0 || cacheHasLogos) {
+                for (const slot of parsedCache.time_slots ?? []) {
+                    for (const game of slot.games ?? []) {
+                        if (!Array.isArray(game.odds?.predicted_spread)) continue;
+                        const prediction = game.odds.predicted_spread.find((item: { home_team?: string; away_team?: string }) =>
+                            item.home_team === game.home_team?.name && item.away_team === game.away_team?.name
+                        );
+                        game.odds.predicted_spread = prediction?.model_home_spread ?? null;
+                    }
+                }
                 return NextResponse.json(parsedCache);
             }
         } catch {
@@ -169,7 +194,7 @@ export async function GET(request: Request) {
                 odds: {
                     spread: draftKingsLine?.formattedSpread ?? null,
                     over_under: draftKingsLine?.overUnder ?? null,
-                    predicted_spread: null,
+                    predicted_spread: await getOurPrediction(parseInt(year), parseInt(week), game.homeTeam, game.awayTeam)
                 },
             });
             timeSlots.set(game.startDate, slot);

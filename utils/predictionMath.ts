@@ -6,6 +6,7 @@
 export function parseSpread(spreadStr: string | null) {
   if (!spreadStr) return null;
   // Regex looks for: (Team Abbreviation) (Optional +/-)(Number)
+  console.log('Parsing spread string:', spreadStr);
   const match = spreadStr.match(/([A-Za-z\s]+)\s*([+-]?\d+\.?\d*)/);
   if (!match) return null;
   
@@ -25,6 +26,7 @@ export function isFavoriteCovering(
   homeScore: number,
   awayScore: number
 ): boolean | null {
+  console.log("predictedSpread:", predictedSpread, "homeTeamAbbr:", homeTeamAbbr, "homeScore:", homeScore, "awayScore:", awayScore);
   const prediction = parseSpread(predictedSpread);
   if (!prediction) return null;
 
