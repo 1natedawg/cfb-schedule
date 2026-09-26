@@ -1,0 +1,1933 @@
+{
+  "season": 2026,
+  "week": 4,
+  "week_label": "2026 Week 4",
+  "date_range": "Sep 24 - Sep 27",
+  "time_slots": [
+    {
+      "slot_label": "Sat, Sep 26 • 7:30 PM",
+      "slot_utc": "2026-09-26T23:30:00.000Z",
+      "games": [
+        {
+          "id": "401856702",
+          "neutral_site": false,
+          "location": "Tiger Stadium (LA)",
+          "broadcast": "ABC",
+          "home_team": {
+            "name": "LSU",
+            "short_name": "LSU",
+            "conference": "SEC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/99.png"
+          },
+          "away_team": {
+            "name": "Texas A&M",
+            "short_name": "Texas A&M",
+            "conference": "SEC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/245.png"
+          },
+          "odds": {
+            "spread": "LSU -8.5",
+            "over_under": 52.5,
+            "predicted_spread": "LSU +6.4"
+          }
+        },
+        {
+          "id": "401858469",
+          "neutral_site": false,
+          "location": "Los Angeles Memorial Coliseum",
+          "broadcast": "NBC",
+          "home_team": {
+            "name": "USC",
+            "short_name": "USC",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/30.png"
+          },
+          "away_team": {
+            "name": "Oregon",
+            "short_name": "Oregon",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2483.png"
+          },
+          "odds": {
+            "spread": "Oregon -3.5",
+            "over_under": 61.5,
+            "predicted_spread": "USC -16.5"
+          }
+        },
+        {
+          "id": "401856804",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Washington State",
+            "short_name": "Washington State",
+            "conference": "Pac-12",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/265.png"
+          },
+          "away_team": {
+            "name": "Arizona",
+            "short_name": "Arizona",
+            "conference": "Big 12",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/12.png"
+          },
+          "odds": {
+            "spread": "Arizona -10.5",
+            "over_under": 48.5,
+            "predicted_spread": "Washington State -19.9"
+          }
+        },
+        {
+          "id": "401860894",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Utah State",
+            "short_name": "Utah State",
+            "conference": "Pac-12",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/328.png"
+          },
+          "away_team": {
+            "name": "Troy",
+            "short_name": "Troy",
+            "conference": "Sun Belt",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2653.png"
+          },
+          "odds": {
+            "spread": "Utah State -3",
+            "over_under": 47.5,
+            "predicted_spread": "Utah State +13.8"
+          }
+        },
+        {
+          "id": "401864572",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "NC State",
+            "short_name": "NC State",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/152.png"
+          },
+          "away_team": {
+            "name": "App State",
+            "short_name": "App State",
+            "conference": "Sun Belt",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2026.png"
+          },
+          "odds": {
+            "spread": "NC State -13.5",
+            "over_under": 55.5,
+            "predicted_spread": "NC State +2.2"
+          }
+        },
+        {
+          "id": "401862783",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "North Texas",
+            "short_name": "North Texas",
+            "conference": "American Athletic",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/249.png"
+          },
+          "away_team": {
+            "name": "Houston Christian",
+            "short_name": "Houston Christian",
+            "conference": "Southland",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "North Texas -38.5",
+            "over_under": 60.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 26 • 3:30 PM",
+      "slot_utc": "2026-09-26T19:30:00.000Z",
+      "games": [
+        {
+          "id": "401856700",
+          "neutral_site": false,
+          "location": "Sanford Stadium",
+          "broadcast": "ESPN",
+          "home_team": {
+            "name": "Georgia",
+            "short_name": "Georgia",
+            "conference": "SEC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/61.png"
+          },
+          "away_team": {
+            "name": "Oklahoma",
+            "short_name": "Oklahoma",
+            "conference": "SEC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/201.png"
+          },
+          "odds": {
+            "spread": "Georgia -13.5",
+            "over_under": 43.5,
+            "predicted_spread": "Georgia -27.4"
+          }
+        },
+        {
+          "id": "401856699",
+          "neutral_site": false,
+          "location": "Ben Hill Griffin Stadium",
+          "broadcast": "ABC",
+          "home_team": {
+            "name": "Florida",
+            "short_name": "Florida",
+            "conference": "SEC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/57.png"
+          },
+          "away_team": {
+            "name": "Ole Miss",
+            "short_name": "Ole Miss",
+            "conference": "SEC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/145.png"
+          },
+          "odds": {
+            "spread": "Florida -3.5",
+            "over_under": 58.5,
+            "predicted_spread": "Florida -28.4"
+          }
+        },
+        {
+          "id": "401860897",
+          "neutral_site": false,
+          "location": "Waldo Stadium",
+          "broadcast": "ESPN2",
+          "home_team": {
+            "name": "Western Michigan",
+            "short_name": "Western Michigan",
+            "conference": "Mid-American",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2711.png"
+          },
+          "away_team": {
+            "name": "Boise State",
+            "short_name": "Boise State",
+            "conference": "Pac-12",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/68.png"
+          },
+          "odds": {
+            "spread": "Boise State -7.5",
+            "over_under": 50.5,
+            "predicted_spread": "Western Michigan -0.2"
+          }
+        },
+        {
+          "id": "401858463",
+          "neutral_site": false,
+          "location": "Michigan Stadium",
+          "broadcast": "CBS",
+          "home_team": {
+            "name": "Michigan",
+            "short_name": "Michigan",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/130.png"
+          },
+          "away_team": {
+            "name": "Iowa",
+            "short_name": "Iowa",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2294.png"
+          },
+          "odds": {
+            "spread": "Michigan -5.5",
+            "over_under": 38.5,
+            "predicted_spread": "Michigan -18.2"
+          }
+        },
+        {
+          "id": "401856816",
+          "neutral_site": false,
+          "location": "Jack Trice Stadium",
+          "broadcast": "FOX",
+          "home_team": {
+            "name": "Iowa State",
+            "short_name": "Iowa State",
+            "conference": "Big 12",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/66.png"
+          },
+          "away_team": {
+            "name": "Utah",
+            "short_name": "Utah",
+            "conference": "Big 12",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/254.png"
+          },
+          "odds": {
+            "spread": "Utah -7.5",
+            "over_under": 47.5,
+            "predicted_spread": "Iowa State -17.7"
+          }
+        },
+        {
+          "id": "401866426",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Buffalo",
+            "short_name": "Buffalo",
+            "conference": "Mid-American",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2084.png"
+          },
+          "away_team": {
+            "name": "Robert Morris",
+            "short_name": "Robert Morris",
+            "conference": "NEC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Buffalo -28.5",
+            "over_under": 46.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401864579",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "New Mexico State",
+            "short_name": "New Mexico State",
+            "conference": "Conference USA",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/166.png"
+          },
+          "away_team": {
+            "name": "New Mexico",
+            "short_name": "New Mexico",
+            "conference": "Mountain West",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/167.png"
+          },
+          "odds": {
+            "spread": "New Mexico -11.5",
+            "over_under": 47.5,
+            "predicted_spread": "New Mexico State -36.2"
+          }
+        },
+        {
+          "id": "401856815",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "UCF",
+            "short_name": "UCF",
+            "conference": "Big 12",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2116.png"
+          },
+          "away_team": {
+            "name": "TCU",
+            "short_name": "TCU",
+            "conference": "Big 12",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2628.png"
+          },
+          "odds": {
+            "spread": "TCU -3",
+            "over_under": 48.5,
+            "predicted_spread": "UCF -24.9"
+          }
+        },
+        {
+          "id": "401858244",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Duke",
+            "short_name": "Duke",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/150.png"
+          },
+          "away_team": {
+            "name": "William & Mary",
+            "short_name": "William & Mary",
+            "conference": "Patriot",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Duke -43.5",
+            "over_under": 62.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401861970",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Miami (OH)",
+            "short_name": "Miami (OH)",
+            "conference": "Mid-American",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/193.png"
+          },
+          "away_team": {
+            "name": "UConn",
+            "short_name": "UConn",
+            "conference": "FBS Independents",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/41.png"
+          },
+          "odds": {
+            "spread": "Miami (OH) -3",
+            "over_under": 51.5,
+            "predicted_spread": "Miami (OH) -11.0"
+          }
+        },
+        {
+          "id": "401866428",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Ohio",
+            "short_name": "Ohio",
+            "conference": "Mid-American",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/195.png"
+          },
+          "away_team": {
+            "name": "Stonehill",
+            "short_name": "Stonehill",
+            "conference": "NEC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Ohio -32.5",
+            "over_under": 53.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401868188",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Marshall",
+            "short_name": "Marshall",
+            "conference": "Sun Belt",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/276.png"
+          },
+          "away_team": {
+            "name": "Gardner-Webb",
+            "short_name": "Gardner-Webb",
+            "conference": "OVC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Marshall -25.5",
+            "over_under": 55.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 26 • 12:00 PM",
+      "slot_utc": "2026-09-26T16:00:00.000Z",
+      "games": [
+        {
+          "id": "401856704",
+          "neutral_site": false,
+          "location": "Neyland Stadium",
+          "broadcast": "ABC",
+          "home_team": {
+            "name": "Tennessee",
+            "short_name": "Tennessee",
+            "conference": "SEC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2633.png"
+          },
+          "away_team": {
+            "name": "Texas",
+            "short_name": "Texas",
+            "conference": "SEC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/251.png"
+          },
+          "odds": {
+            "spread": "Texas -5.5",
+            "over_under": 54.5,
+            "predicted_spread": "Tennessee -30.5"
+          }
+        },
+        {
+          "id": "401858465",
+          "neutral_site": false,
+          "location": "Ohio Stadium",
+          "broadcast": "FOX",
+          "home_team": {
+            "name": "Ohio State",
+            "short_name": "Ohio State",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/194.png"
+          },
+          "away_team": {
+            "name": "Illinois",
+            "short_name": "Illinois",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/356.png"
+          },
+          "odds": {
+            "spread": "Ohio State -25.5",
+            "over_under": 53.5,
+            "predicted_spread": "Ohio State +1.5"
+          }
+        },
+        {
+          "id": "401858243",
+          "neutral_site": false,
+          "location": "L&N Federal Credit Union Stadium",
+          "broadcast": "ESPN",
+          "home_team": {
+            "name": "Louisville",
+            "short_name": "Louisville",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/97.png"
+          },
+          "away_team": {
+            "name": "Wake Forest",
+            "short_name": "Wake Forest",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/154.png"
+          },
+          "odds": {
+            "spread": "Louisville -11.5",
+            "over_under": 57.5,
+            "predicted_spread": "Louisville -16.5"
+          }
+        },
+        {
+          "id": "401858236",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Pittsburgh",
+            "short_name": "Pittsburgh",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/221.png"
+          },
+          "away_team": {
+            "name": "Bucknell",
+            "short_name": "Bucknell",
+            "conference": "Patriot",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Pittsburgh -54.5",
+            "over_under": 63.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401858242",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Boston College",
+            "short_name": "Boston College",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/103.png"
+          },
+          "away_team": {
+            "name": "Virginia Tech",
+            "short_name": "Virginia Tech",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/259.png"
+          },
+          "odds": {
+            "spread": "Virginia Tech -14.5",
+            "over_under": 46.5,
+            "predicted_spread": "Boston College +0.9"
+          }
+        },
+        {
+          "id": "401856805",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Texas Tech",
+            "short_name": "Texas Tech",
+            "conference": "Big 12",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2641.png"
+          },
+          "away_team": {
+            "name": "Sam Houston",
+            "short_name": "Sam Houston",
+            "conference": "Conference USA",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2534.png"
+          },
+          "odds": {
+            "spread": "Texas Tech -34.5",
+            "over_under": 56.5,
+            "predicted_spread": "Texas Tech -8.8"
+          }
+        },
+        {
+          "id": "401856813",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Baylor",
+            "short_name": "Baylor",
+            "conference": "Big 12",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/239.png"
+          },
+          "away_team": {
+            "name": "Colorado",
+            "short_name": "Colorado",
+            "conference": "Big 12",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/38.png"
+          },
+          "odds": {
+            "spread": "Baylor -8.5",
+            "over_under": 54.5,
+            "predicted_spread": "Baylor +3.5"
+          }
+        },
+        {
+          "id": "401864512",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Akron",
+            "short_name": "Akron",
+            "conference": "Mid-American",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2006.png"
+          },
+          "away_team": {
+            "name": "UNLV",
+            "short_name": "UNLV",
+            "conference": "Mountain West",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2439.png"
+          },
+          "odds": {
+            "spread": "UNLV -13.5",
+            "over_under": 52.5,
+            "predicted_spread": "Akron +2.5"
+          }
+        },
+        {
+          "id": "401860893",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Toledo",
+            "short_name": "Toledo",
+            "conference": "Mid-American",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2649.png"
+          },
+          "away_team": {
+            "name": "San Diego State",
+            "short_name": "San Diego State",
+            "conference": "Pac-12",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/21.png"
+          },
+          "odds": {
+            "spread": "Toledo -2.5",
+            "over_under": 50.5,
+            "predicted_spread": "Toledo -12.0"
+          }
+        },
+        {
+          "id": "401866425",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Kent State",
+            "short_name": "Kent State",
+            "conference": "Mid-American",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2309.png"
+          },
+          "away_team": {
+            "name": "Ball State",
+            "short_name": "Ball State",
+            "conference": "Mid-American",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2050.png"
+          },
+          "odds": {
+            "spread": "Kent State -2.5",
+            "over_under": 51.5,
+            "predicted_spread": "Kent State +11.2"
+          }
+        },
+        {
+          "id": "401860896",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "UTSA",
+            "short_name": "UTSA",
+            "conference": "American Athletic",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2636.png"
+          },
+          "away_team": {
+            "name": "Colorado State",
+            "short_name": "Colorado State",
+            "conference": "Pac-12",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/36.png"
+          },
+          "odds": {
+            "spread": "UTSA -14.5",
+            "over_under": 56.5,
+            "predicted_spread": "UTSA +20.2"
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 26 • 5:00 PM",
+      "slot_utc": "2026-09-26T21:00:00.000Z",
+      "games": [
+        {
+          "id": "401858464",
+          "neutral_site": false,
+          "location": "Spartan Stadium",
+          "broadcast": "BTN",
+          "home_team": {
+            "name": "Michigan State",
+            "short_name": "Michigan State",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/127.png"
+          },
+          "away_team": {
+            "name": "Nebraska",
+            "short_name": "Nebraska",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/158.png"
+          },
+          "odds": {
+            "spread": "Nebraska -5.5",
+            "over_under": 49.5,
+            "predicted_spread": "Michigan State -25.7"
+          }
+        },
+        {
+          "id": "401858466",
+          "neutral_site": false,
+          "location": "Beaver Stadium",
+          "broadcast": "Peacock",
+          "home_team": {
+            "name": "Penn State",
+            "short_name": "Penn State",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/213.png"
+          },
+          "away_team": {
+            "name": "Wisconsin",
+            "short_name": "Wisconsin",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/275.png"
+          },
+          "odds": {
+            "spread": "Penn State -10",
+            "over_under": 43.5,
+            "predicted_spread": "Penn State -16.9"
+          }
+        },
+        {
+          "id": "401862785",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Bowling Green",
+            "short_name": "Bowling Green",
+            "conference": "Mid-American",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/189.png"
+          },
+          "away_team": {
+            "name": "South Florida",
+            "short_name": "South Florida",
+            "conference": "American Athletic",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/58.png"
+          },
+          "odds": {
+            "spread": "South Florida -18.5",
+            "over_under": 48.5,
+            "predicted_spread": "Bowling Green +13.2"
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 26 • 7:00 PM",
+      "slot_utc": "2026-09-26T23:00:00.000Z",
+      "games": [
+        {
+          "id": "401856696",
+          "neutral_site": false,
+          "location": "Bryant-Denny Stadium",
+          "broadcast": "ESPN",
+          "home_team": {
+            "name": "Alabama",
+            "short_name": "Alabama",
+            "conference": "SEC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/333.png"
+          },
+          "away_team": {
+            "name": "South Carolina",
+            "short_name": "South Carolina",
+            "conference": "SEC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2579.png"
+          },
+          "odds": {
+            "spread": "Alabama -12.5",
+            "over_under": 54.5,
+            "predicted_spread": "Alabama -28.6"
+          }
+        },
+        {
+          "id": "401856881",
+          "neutral_site": false,
+          "location": "Milan Puskar Stadium",
+          "broadcast": "FS1",
+          "home_team": {
+            "name": "West Virginia",
+            "short_name": "West Virginia",
+            "conference": "Big 12",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/277.png"
+          },
+          "away_team": {
+            "name": "Oklahoma State",
+            "short_name": "Oklahoma State",
+            "conference": "Big 12",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/197.png"
+          },
+          "odds": {
+            "spread": "West Virginia -1.5",
+            "over_under": 60.5,
+            "predicted_spread": "West Virginia -17.1"
+          }
+        },
+        {
+          "id": "401870745",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Western Kentucky",
+            "short_name": "Western Kentucky",
+            "conference": "Conference USA",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/98.png"
+          },
+          "away_team": {
+            "name": "Mercyhurst",
+            "short_name": "Mercyhurst",
+            "conference": "NEC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Western Kentucky -40.5",
+            "over_under": 58.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401856814",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Cincinnati",
+            "short_name": "Cincinnati",
+            "conference": "Big 12",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2132.png"
+          },
+          "away_team": {
+            "name": "Kansas State",
+            "short_name": "Kansas State",
+            "conference": "Big 12",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2306.png"
+          },
+          "odds": {
+            "spread": "Kansas State -6",
+            "over_under": 55.5,
+            "predicted_spread": "Cincinnati -19.5"
+          }
+        },
+        {
+          "id": "401862784",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Tulane",
+            "short_name": "Tulane",
+            "conference": "American Athletic",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2655.png"
+          },
+          "away_team": {
+            "name": "Southern Miss",
+            "short_name": "Southern Miss",
+            "conference": "Sun Belt",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2572.png"
+          },
+          "odds": {
+            "spread": "Tulane -17.5",
+            "over_under": 52.5,
+            "predicted_spread": "Tulane -0.5"
+          }
+        },
+        {
+          "id": "401869931",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Arkansas State",
+            "short_name": "Arkansas State",
+            "conference": "Sun Belt",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2032.png"
+          },
+          "away_team": {
+            "name": "Kennesaw State",
+            "short_name": "Kennesaw State",
+            "conference": "Conference USA",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/338.png"
+          },
+          "odds": {
+            "spread": "Arkansas State -6.5",
+            "over_under": 53.5,
+            "predicted_spread": "Arkansas State +4.1"
+          }
+        },
+        {
+          "id": "401871048",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Jacksonville State",
+            "short_name": "Jacksonville State",
+            "conference": "Conference USA",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/55.png"
+          },
+          "away_team": {
+            "name": "Middle Tennessee",
+            "short_name": "Middle Tennessee",
+            "conference": "Conference USA",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2393.png"
+          },
+          "odds": {
+            "spread": "Jacksonville State -7.5",
+            "over_under": 51.5,
+            "predicted_spread": "Jacksonville State -10.5"
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 26 • 7:45 PM",
+      "slot_utc": "2026-09-26T23:45:00.000Z",
+      "games": [
+        {
+          "id": "401856703",
+          "neutral_site": false,
+          "location": "Davis Wade Stadium",
+          "broadcast": "SEC Network",
+          "home_team": {
+            "name": "Mississippi State",
+            "short_name": "Mississippi State",
+            "conference": "SEC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/344.png"
+          },
+          "away_team": {
+            "name": "Missouri",
+            "short_name": "Missouri",
+            "conference": "SEC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/142.png"
+          },
+          "odds": {
+            "spread": "Mississippi State -5.5",
+            "over_under": 58.5,
+            "predicted_spread": "Mississippi State -12.9"
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 26 • 4:15 PM",
+      "slot_utc": "2026-09-26T20:15:00.000Z",
+      "games": [
+        {
+          "id": "401856698",
+          "neutral_site": false,
+          "location": "Jordan-Hare Stadium",
+          "broadcast": "SEC Network",
+          "home_team": {
+            "name": "Auburn",
+            "short_name": "Auburn",
+            "conference": "SEC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2.png"
+          },
+          "away_team": {
+            "name": "Vanderbilt",
+            "short_name": "Vanderbilt",
+            "conference": "SEC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/238.png"
+          },
+          "odds": {
+            "spread": "Auburn -10",
+            "over_under": 55.5,
+            "predicted_spread": "Auburn +20.6"
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 26 • 1:30 PM",
+      "slot_utc": "2026-09-26T17:30:00.000Z",
+      "games": [
+        {
+          "id": "401858462",
+          "neutral_site": false,
+          "location": "SECU Stadium",
+          "broadcast": "BTN",
+          "home_team": {
+            "name": "Maryland",
+            "short_name": "Maryland",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/120.png"
+          },
+          "away_team": {
+            "name": "UCLA",
+            "short_name": "UCLA",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/26.png"
+          },
+          "odds": {
+            "spread": "UCLA -2.5",
+            "over_under": 55.5,
+            "predicted_spread": "Maryland -36.9"
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 26 • 6:30 PM",
+      "slot_utc": "2026-09-26T22:30:00.000Z",
+      "games": [
+        {
+          "id": "401858238",
+          "neutral_site": false,
+          "location": "Hard Rock Stadium",
+          "broadcast": "CW",
+          "home_team": {
+            "name": "Miami",
+            "short_name": "Miami",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2390.png"
+          },
+          "away_team": {
+            "name": "Central Michigan",
+            "short_name": "Central Michigan",
+            "conference": "Mid-American",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2117.png"
+          },
+          "odds": {
+            "spread": "Miami -41.5",
+            "over_under": 53.5,
+            "predicted_spread": "Miami -33.9"
+          }
+        },
+        {
+          "id": "401862780",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Charlotte",
+            "short_name": "Charlotte",
+            "conference": "American Athletic",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2429.png"
+          },
+          "away_team": {
+            "name": "Louisiana",
+            "short_name": "Louisiana",
+            "conference": "Sun Belt",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/309.png"
+          },
+          "odds": {
+            "spread": "Louisiana -10",
+            "over_under": 49.5,
+            "predicted_spread": "Charlotte -6.1"
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 26 • 11:00 PM",
+      "slot_utc": "2026-09-27T03:00:00.000Z",
+      "games": [
+        {
+          "id": "401858470",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Washington",
+            "short_name": "Washington",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/264.png"
+          },
+          "away_team": {
+            "name": "Minnesota",
+            "short_name": "Minnesota",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/135.png"
+          },
+          "odds": {
+            "spread": "Washington -10.5",
+            "over_under": 46.5,
+            "predicted_spread": "Washington -11.0"
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 26 • 3:00 PM",
+      "slot_utc": "2026-09-26T19:00:00.000Z",
+      "games": [
+        {
+          "id": "401864510",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Wyoming",
+            "short_name": "Wyoming",
+            "conference": "Mountain West",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2751.png"
+          },
+          "away_team": {
+            "name": "Hawai'i",
+            "short_name": "Hawai'i",
+            "conference": "Mountain West",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/62.png"
+          },
+          "odds": {
+            "spread": "Hawai'i -2.5",
+            "over_under": 43.5,
+            "predicted_spread": "Wyoming -3.6"
+          }
+        },
+        {
+          "id": "401858237",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Florida State",
+            "short_name": "Florida State",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/52.png"
+          },
+          "away_team": {
+            "name": "Central Arkansas",
+            "short_name": "Central Arkansas",
+            "conference": "UAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Florida State -46.5",
+            "over_under": 62.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 26 • 12:45 PM",
+      "slot_utc": "2026-09-26T16:45:00.000Z",
+      "games": [
+        {
+          "id": "401864576",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Kentucky",
+            "short_name": "Kentucky",
+            "conference": "SEC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/96.png"
+          },
+          "away_team": {
+            "name": "South Alabama",
+            "short_name": "South Alabama",
+            "conference": "Sun Belt",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/6.png"
+          },
+          "odds": {
+            "spread": "Kentucky -20.5",
+            "over_under": 54.5,
+            "predicted_spread": "Kentucky -11.9"
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Fri, Sep 25 • 7:00 PM",
+      "slot_utc": "2026-09-25T23:00:00.000Z",
+      "games": [
+        {
+          "id": "401862778",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "UAB",
+            "short_name": "UAB",
+            "conference": "American Athletic",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/5.png"
+          },
+          "away_team": {
+            "name": "Navy",
+            "short_name": "Navy",
+            "conference": "American Athletic",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2426.png"
+          },
+          "odds": {
+            "spread": "Navy -6.5",
+            "over_under": 50.5,
+            "predicted_spread": "UAB -23.9"
+          }
+        },
+        {
+          "id": "401858468",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Rutgers",
+            "short_name": "Rutgers",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/164.png"
+          },
+          "away_team": {
+            "name": "Howard",
+            "short_name": "Howard",
+            "conference": "MEAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Rutgers -42.5",
+            "over_under": 57.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Thu, Sep 24 • 7:30 PM",
+      "slot_utc": "2026-09-24T23:30:00.000Z",
+      "games": [
+        {
+          "id": "401869941",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Coastal Carolina",
+            "short_name": "Coastal Carolina",
+            "conference": "Sun Belt",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/324.png"
+          },
+          "away_team": {
+            "name": "Liberty",
+            "short_name": "Liberty",
+            "conference": "Conference USA",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2335.png"
+          },
+          "odds": {
+            "spread": "Liberty -2.5",
+            "over_under": 50.5,
+            "predicted_spread": "Coastal Carolina -9.3"
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 26 • 4:00 PM",
+      "slot_utc": "2026-09-26T20:00:00.000Z",
+      "games": [
+        {
+          "id": "401856806",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Georgia Southern",
+            "short_name": "Georgia Southern",
+            "conference": "Sun Belt",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/290.png"
+          },
+          "away_team": {
+            "name": "Houston",
+            "short_name": "Houston",
+            "conference": "Big 12",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/248.png"
+          },
+          "odds": {
+            "spread": "Houston -17.5",
+            "over_under": 56.5,
+            "predicted_spread": "Georgia Southern +8.2"
+          }
+        },
+        {
+          "id": "401862781",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "East Carolina",
+            "short_name": "East Carolina",
+            "conference": "American Athletic",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/151.png"
+          },
+          "away_team": {
+            "name": "North Carolina Central",
+            "short_name": "North Carolina Central",
+            "conference": "MEAC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "East Carolina -37.5",
+            "over_under": 57.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 26 • 10:30 PM",
+      "slot_utc": "2026-09-27T02:30:00.000Z",
+      "games": [
+        {
+          "id": "401858240",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Stanford",
+            "short_name": "Stanford",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/24.png"
+          },
+          "away_team": {
+            "name": "Georgia Tech",
+            "short_name": "Georgia Tech",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/59.png"
+          },
+          "odds": {
+            "spread": "Georgia Tech -3",
+            "over_under": 48.5,
+            "predicted_spread": "Stanford -10.7"
+          }
+        },
+        {
+          "id": "401864509",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Nevada",
+            "short_name": "Nevada",
+            "conference": "Mountain West",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2440.png"
+          },
+          "away_team": {
+            "name": "Air Force",
+            "short_name": "Air Force",
+            "conference": "Mountain West",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2005.png"
+          },
+          "odds": {
+            "spread": "Air Force -5.5",
+            "over_under": 50.5,
+            "predicted_spread": "Nevada -7.4"
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 26 • 6:00 PM",
+      "slot_utc": "2026-09-26T22:00:00.000Z",
+      "games": [
+        {
+          "id": "401860892",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Texas State",
+            "short_name": "Texas State",
+            "conference": "Pac-12",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/326.png"
+          },
+          "away_team": {
+            "name": "Incarnate Word",
+            "short_name": "Incarnate Word",
+            "conference": "Southland",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Texas State -30.5",
+            "over_under": 65.5,
+            "predicted_spread": null
+          }
+        },
+        {
+          "id": "401858239",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Virginia",
+            "short_name": "Virginia",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/258.png"
+          },
+          "away_team": {
+            "name": "Delaware",
+            "short_name": "Delaware",
+            "conference": "Conference USA",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/48.png"
+          },
+          "odds": {
+            "spread": "Virginia -19.5",
+            "over_under": 52.5,
+            "predicted_spread": "Virginia -9.0"
+          }
+        },
+        {
+          "id": "401869961",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Old Dominion",
+            "short_name": "Old Dominion",
+            "conference": "Sun Belt",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/295.png"
+          },
+          "away_team": {
+            "name": "James Madison",
+            "short_name": "James Madison",
+            "conference": "Sun Belt",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/256.png"
+          },
+          "odds": {
+            "spread": "James Madison -7",
+            "over_under": 42.5,
+            "predicted_spread": "Old Dominion -31.4"
+          }
+        },
+        {
+          "id": "401867909",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Florida International",
+            "short_name": "Florida International",
+            "conference": "Conference USA",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2229.png"
+          },
+          "away_team": {
+            "name": "Long Island University",
+            "short_name": "Long Island University",
+            "conference": "NEC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Florida International -37.5",
+            "over_under": 54.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Fri, Sep 25 • 8:00 PM",
+      "slot_utc": "2026-09-26T00:00:00.000Z",
+      "games": [
+        {
+          "id": "401858461",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Indiana",
+            "short_name": "Indiana",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/84.png"
+          },
+          "away_team": {
+            "name": "Northwestern",
+            "short_name": "Northwestern",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/77.png"
+          },
+          "odds": {
+            "spread": "Indiana -20.5",
+            "over_under": 49.5,
+            "predicted_spread": "Indiana -15.4"
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 26 • 10:00 PM",
+      "slot_utc": "2026-09-27T02:00:00.000Z",
+      "games": [
+        {
+          "id": "401860891",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Fresno State",
+            "short_name": "Fresno State",
+            "conference": "Pac-12",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/278.png"
+          },
+          "away_team": {
+            "name": "Rice",
+            "short_name": "Rice",
+            "conference": "American Athletic",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/242.png"
+          },
+          "odds": {
+            "spread": "Fresno State -13.5",
+            "over_under": 43.5,
+            "predicted_spread": "Fresno State -1.3"
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 26 • 2:00 PM",
+      "slot_utc": "2026-09-26T18:00:00.000Z",
+      "games": [
+        {
+          "id": "401858467",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Purdue",
+            "short_name": "Purdue",
+            "conference": "Big Ten",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2509.png"
+          },
+          "away_team": {
+            "name": "Notre Dame",
+            "short_name": "Notre Dame",
+            "conference": "FBS Independents",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/87.png"
+          },
+          "odds": {
+            "spread": "Notre Dame -27.5",
+            "over_under": 57.5,
+            "predicted_spread": "Purdue -36.9"
+          }
+        },
+        {
+          "id": "401864511",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Georgia State",
+            "short_name": "Georgia State",
+            "conference": "Sun Belt",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2247.png"
+          },
+          "away_team": {
+            "name": "Northern Illinois",
+            "short_name": "Northern Illinois",
+            "conference": "Mountain West",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2459.png"
+          },
+          "odds": {
+            "spread": "Georgia State -10.5",
+            "over_under": 56.5,
+            "predicted_spread": "Georgia State -18.6"
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Fri, Sep 25 • 4:00 PM",
+      "slot_utc": "2026-09-25T20:00:00.000Z",
+      "games": [
+        {
+          "id": "401862779",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Temple",
+            "short_name": "Temple",
+            "conference": "American Athletic",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/218.png"
+          },
+          "away_team": {
+            "name": "Army",
+            "short_name": "Army",
+            "conference": "American Athletic",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/349.png"
+          },
+          "odds": {
+            "spread": "Army -4",
+            "over_under": 48.5,
+            "predicted_spread": "Temple -6.8"
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Fri, Sep 25 • 10:30 PM",
+      "slot_utc": "2026-09-26T02:30:00.000Z",
+      "games": [
+        {
+          "id": "401858234",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "California",
+            "short_name": "California",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/25.png"
+          },
+          "away_team": {
+            "name": "Clemson",
+            "short_name": "Clemson",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/228.png"
+          },
+          "odds": {
+            "spread": "Clemson -2.5",
+            "over_under": 52.5,
+            "predicted_spread": "California +1.7"
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 26 • 8:00 PM",
+      "slot_utc": "2026-09-27T00:00:00.000Z",
+      "games": [
+        {
+          "id": "401856697",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Arkansas",
+            "short_name": "Arkansas",
+            "conference": "SEC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/8.png"
+          },
+          "away_team": {
+            "name": "Tulsa",
+            "short_name": "Tulsa",
+            "conference": "American Athletic",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/202.png"
+          },
+          "odds": {
+            "spread": "Arkansas -7",
+            "over_under": 50.5,
+            "predicted_spread": "Arkansas -16.3"
+          }
+        },
+        {
+          "id": "401862782",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "UL Monroe",
+            "short_name": "UL Monroe",
+            "conference": "Sun Belt",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2433.png"
+          },
+          "away_team": {
+            "name": "Florida Atlantic",
+            "short_name": "Florida Atlantic",
+            "conference": "American Athletic",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2226.png"
+          },
+          "odds": {
+            "spread": "Florida Atlantic -11.5",
+            "over_under": 58.5,
+            "predicted_spread": "UL Monroe +2.3"
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 26 • 9:00 PM",
+      "slot_utc": "2026-09-27T01:00:00.000Z",
+      "games": [
+        {
+          "id": "401860895",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "UTEP",
+            "short_name": "UTEP",
+            "conference": "Mountain West",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2638.png"
+          },
+          "away_team": {
+            "name": "Oregon State",
+            "short_name": "Oregon State",
+            "conference": "Pac-12",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/204.png"
+          },
+          "odds": {
+            "spread": "Oregon State -11.5",
+            "over_under": 56.5,
+            "predicted_spread": "UTEP -4.4"
+          }
+        },
+        {
+          "id": "401866429",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Sacramento State",
+            "short_name": "Sacramento State",
+            "conference": "Mid-American",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/16.png"
+          },
+          "away_team": {
+            "name": "Massachusetts",
+            "short_name": "Massachusetts",
+            "conference": "Mid-American",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/113.png"
+          },
+          "odds": {
+            "spread": "Massachusetts -4.5",
+            "over_under": 48.5,
+            "predicted_spread": "Sacramento State -34.8"
+          }
+        },
+        {
+          "id": "401858241",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "SMU",
+            "short_name": "SMU",
+            "conference": "ACC",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2567.png"
+          },
+          "away_team": {
+            "name": "Missouri State",
+            "short_name": "Missouri State",
+            "conference": "Conference USA",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2623.png"
+          },
+          "odds": {
+            "spread": "SMU -32.5",
+            "over_under": 60.5,
+            "predicted_spread": "SMU +9.1"
+          }
+        }
+      ]
+    },
+    {
+      "slot_label": "Sat, Sep 26 • 1:00 PM",
+      "slot_utc": "2026-09-26T17:00:00.000Z",
+      "games": [
+        {
+          "id": "401866427",
+          "neutral_site": false,
+          "location": "N/A",
+          "broadcast": "N/A",
+          "home_team": {
+            "name": "Eastern Michigan",
+            "short_name": "Eastern Michigan",
+            "conference": "Mid-American",
+            "rank": null,
+            "logo_url": "https://cdn.collegefootballdata.com/logos/500/2199.png"
+          },
+          "away_team": {
+            "name": "Lindenwood",
+            "short_name": "Lindenwood",
+            "conference": "OVC",
+            "rank": null,
+            "logo_url": ""
+          },
+          "odds": {
+            "spread": "Eastern Michigan -23.5",
+            "over_under": 53.5,
+            "predicted_spread": null
+          }
+        }
+      ]
+    }
+  ]
+}
