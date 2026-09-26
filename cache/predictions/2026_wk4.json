@@ -1,0 +1,524 @@
+[
+    {
+        "home_team": "USC",
+        "away_team": "Oregon",
+        "predicted_margin": "16.455141",
+        "model_home_spread": "USC -16.5",
+        "model_away_spread": "Oregon +16.5",
+        "vegas_formatted_spread": "Oregon -3.5",
+        "over_under": "61.5"
+    },
+    {
+        "home_team": "LSU",
+        "away_team": "Texas A&M",
+        "predicted_margin": "-6.4203258",
+        "model_home_spread": "LSU +6.4",
+        "model_away_spread": "Texas A&M -6.4",
+        "vegas_formatted_spread": "LSU -8.5",
+        "over_under": "52.5"
+    },
+    {
+        "home_team": "Georgia",
+        "away_team": "Oklahoma",
+        "predicted_margin": "27.351107",
+        "model_home_spread": "Georgia -27.4",
+        "model_away_spread": "Oklahoma +27.4",
+        "vegas_formatted_spread": "Georgia -13.5",
+        "over_under": "43.5"
+    },
+    {
+        "home_team": "Tennessee",
+        "away_team": "Texas",
+        "predicted_margin": "30.49441",
+        "model_home_spread": "Tennessee -30.5",
+        "model_away_spread": "Texas +30.5",
+        "vegas_formatted_spread": "Texas -5.5",
+        "over_under": "54.5"
+    },
+    {
+        "home_team": "Florida",
+        "away_team": "Ole Miss",
+        "predicted_margin": "28.414898",
+        "model_home_spread": "Florida -28.4",
+        "model_away_spread": "Ole Miss +28.4",
+        "vegas_formatted_spread": "Florida -3.5",
+        "over_under": "58.5"
+    },
+    {
+        "home_team": "Michigan State",
+        "away_team": "Nebraska",
+        "predicted_margin": "25.737444",
+        "model_home_spread": "Michigan State -25.7",
+        "model_away_spread": "Nebraska +25.7",
+        "vegas_formatted_spread": "Nebraska -5.5",
+        "over_under": "49.5"
+    },
+    {
+        "home_team": "Alabama",
+        "away_team": "South Carolina",
+        "predicted_margin": "28.61053",
+        "model_home_spread": "Alabama -28.6",
+        "model_away_spread": "South Carolina +28.6",
+        "vegas_formatted_spread": "Alabama -12.5",
+        "over_under": "54.5"
+    },
+    {
+        "home_team": "Western Michigan",
+        "away_team": "Boise State",
+        "predicted_margin": "0.17313543",
+        "model_home_spread": "Western Michigan -0.2",
+        "model_away_spread": "Boise State +0.2",
+        "vegas_formatted_spread": "Boise State -7.5",
+        "over_under": "50.5"
+    },
+    {
+        "home_team": "West Virginia",
+        "away_team": "Oklahoma State",
+        "predicted_margin": "17.062534",
+        "model_home_spread": "West Virginia -17.1",
+        "model_away_spread": "Oklahoma State +17.1",
+        "vegas_formatted_spread": "West Virginia -1.5",
+        "over_under": "60.5"
+    },
+    {
+        "home_team": "Michigan",
+        "away_team": "Iowa",
+        "predicted_margin": "18.226467",
+        "model_home_spread": "Michigan -18.2",
+        "model_away_spread": "Iowa +18.2",
+        "vegas_formatted_spread": "Michigan -5.5",
+        "over_under": "38.5"
+    },
+    {
+        "home_team": "Auburn",
+        "away_team": "Vanderbilt",
+        "predicted_margin": "-20.571417",
+        "model_home_spread": "Auburn +20.6",
+        "model_away_spread": "Vanderbilt -20.6",
+        "vegas_formatted_spread": "Auburn -10",
+        "over_under": "55.5"
+    },
+    {
+        "home_team": "Mississippi State",
+        "away_team": "Missouri",
+        "predicted_margin": "12.928709",
+        "model_home_spread": "Mississippi State -12.9",
+        "model_away_spread": "Missouri +12.9",
+        "vegas_formatted_spread": "Mississippi State -5.5",
+        "over_under": "58.5"
+    },
+    {
+        "home_team": "Penn State",
+        "away_team": "Wisconsin",
+        "predicted_margin": "16.894407",
+        "model_home_spread": "Penn State -16.9",
+        "model_away_spread": "Wisconsin +16.9",
+        "vegas_formatted_spread": "Penn State -10",
+        "over_under": "43.5"
+    },
+    {
+        "home_team": "Maryland",
+        "away_team": "UCLA",
+        "predicted_margin": "36.936836",
+        "model_home_spread": "Maryland -36.9",
+        "model_away_spread": "UCLA +36.9",
+        "vegas_formatted_spread": "UCLA -2.5",
+        "over_under": "55.5"
+    },
+    {
+        "home_team": "Ohio State",
+        "away_team": "Illinois",
+        "predicted_margin": "-1.459246",
+        "model_home_spread": "Ohio State +1.5",
+        "model_away_spread": "Illinois -1.5",
+        "vegas_formatted_spread": "Ohio State -25.5",
+        "over_under": "53.5"
+    },
+    {
+        "home_team": "Iowa State",
+        "away_team": "Utah",
+        "predicted_margin": "17.663092",
+        "model_home_spread": "Iowa State -17.7",
+        "model_away_spread": "Utah +17.7",
+        "vegas_formatted_spread": "Utah -7.5",
+        "over_under": "47.5"
+    },
+    {
+        "home_team": "Miami",
+        "away_team": "Central Michigan",
+        "predicted_margin": "33.93976",
+        "model_home_spread": "Miami -33.9",
+        "model_away_spread": "Central Michigan +33.9",
+        "vegas_formatted_spread": "Miami -41.5",
+        "over_under": "53.5"
+    },
+    {
+        "home_team": "Louisville",
+        "away_team": "Wake Forest",
+        "predicted_margin": "16.540207",
+        "model_home_spread": "Louisville -16.5",
+        "model_away_spread": "Wake Forest +16.5",
+        "vegas_formatted_spread": "Louisville -11.5",
+        "over_under": "57.5"
+    },
+    {
+        "home_team": "Washington",
+        "away_team": "Minnesota",
+        "predicted_margin": "10.971903",
+        "model_home_spread": "Washington -11.0",
+        "model_away_spread": "Minnesota +11.0",
+        "vegas_formatted_spread": "Washington -10.5",
+        "over_under": "46.5"
+    },
+    {
+        "home_team": "Wyoming",
+        "away_team": "Hawai'i",
+        "predicted_margin": "3.553608",
+        "model_home_spread": "Wyoming -3.6",
+        "model_away_spread": "Hawai'i +3.6",
+        "vegas_formatted_spread": "Hawai'i -2.5",
+        "over_under": "43.5"
+    },
+    {
+        "home_team": "Kentucky",
+        "away_team": "South Alabama",
+        "predicted_margin": "11.938686",
+        "model_home_spread": "Kentucky -11.9",
+        "model_away_spread": "South Alabama +11.9",
+        "vegas_formatted_spread": "Kentucky -20.5",
+        "over_under": "54.0"
+    },
+    {
+        "home_team": "UAB",
+        "away_team": "Navy",
+        "predicted_margin": "23.886099",
+        "model_home_spread": "UAB -23.9",
+        "model_away_spread": "Navy +23.9",
+        "vegas_formatted_spread": "Navy -6.5",
+        "over_under": "50.0"
+    },
+    {
+        "home_team": "New Mexico State",
+        "away_team": "New Mexico",
+        "predicted_margin": "36.16446",
+        "model_home_spread": "New Mexico State -36.2",
+        "model_away_spread": "New Mexico +36.2",
+        "vegas_formatted_spread": "New Mexico -11.5",
+        "over_under": "47.5"
+    },
+    {
+        "home_team": "Coastal Carolina",
+        "away_team": "Liberty",
+        "predicted_margin": "9.32195",
+        "model_home_spread": "Coastal Carolina -9.3",
+        "model_away_spread": "Liberty +9.3",
+        "vegas_formatted_spread": "Liberty -2.5",
+        "over_under": "50.5"
+    },
+    {
+        "home_team": "Bowling Green",
+        "away_team": "South Florida",
+        "predicted_margin": "-13.227683",
+        "model_home_spread": "Bowling Green +13.2",
+        "model_away_spread": "South Florida -13.2",
+        "vegas_formatted_spread": "South Florida -18.5",
+        "over_under": "48.5"
+    },
+    {
+        "home_team": "UCF",
+        "away_team": "TCU",
+        "predicted_margin": "24.885168",
+        "model_home_spread": "UCF -24.9",
+        "model_away_spread": "TCU +24.9",
+        "vegas_formatted_spread": "TCU -3",
+        "over_under": "48.5"
+    },
+    {
+        "home_team": "Boston College",
+        "away_team": "Virginia Tech",
+        "predicted_margin": "-0.9494621",
+        "model_home_spread": "Boston College +0.9",
+        "model_away_spread": "Virginia Tech -0.9",
+        "vegas_formatted_spread": "Virginia Tech -14.5",
+        "over_under": "46.5"
+    },
+    {
+        "home_team": "Washington State",
+        "away_team": "Arizona",
+        "predicted_margin": "19.85007",
+        "model_home_spread": "Washington State -19.9",
+        "model_away_spread": "Arizona +19.9",
+        "vegas_formatted_spread": "Arizona -10.5",
+        "over_under": "48.5"
+    },
+    {
+        "home_team": "Miami (OH)",
+        "away_team": "UConn",
+        "predicted_margin": "10.964792",
+        "model_home_spread": "Miami (OH) -11.0",
+        "model_away_spread": "UConn +11.0",
+        "vegas_formatted_spread": "Miami (OH) -3",
+        "over_under": "51.5"
+    },
+    {
+        "home_team": "Texas Tech",
+        "away_team": "Sam Houston",
+        "predicted_margin": "8.807076",
+        "model_home_spread": "Texas Tech -8.8",
+        "model_away_spread": "Sam Houston +8.8",
+        "vegas_formatted_spread": "Texas Tech -34.5",
+        "over_under": "56.5"
+    },
+    {
+        "home_team": "Georgia Southern",
+        "away_team": "Houston",
+        "predicted_margin": "-8.177379",
+        "model_home_spread": "Georgia Southern +8.2",
+        "model_away_spread": "Houston -8.2",
+        "vegas_formatted_spread": "Houston -17.5",
+        "over_under": "56.5"
+    },
+    {
+        "home_team": "Stanford",
+        "away_team": "Georgia Tech",
+        "predicted_margin": "10.68502",
+        "model_home_spread": "Stanford -10.7",
+        "model_away_spread": "Georgia Tech +10.7",
+        "vegas_formatted_spread": "Georgia Tech -3",
+        "over_under": "48.5"
+    },
+    {
+        "home_team": "Baylor",
+        "away_team": "Colorado",
+        "predicted_margin": "-3.5107691",
+        "model_home_spread": "Baylor +3.5",
+        "model_away_spread": "Colorado -3.5",
+        "vegas_formatted_spread": "Baylor -8.5",
+        "over_under": "54.5"
+    },
+    {
+        "home_team": "Utah State",
+        "away_team": "Troy",
+        "predicted_margin": "-13.774545",
+        "model_home_spread": "Utah State +13.8",
+        "model_away_spread": "Troy -13.8",
+        "vegas_formatted_spread": "Utah State -3",
+        "over_under": "47.5"
+    },
+    {
+        "home_team": "Akron",
+        "away_team": "UNLV",
+        "predicted_margin": "-2.5345418",
+        "model_home_spread": "Akron +2.5",
+        "model_away_spread": "UNLV -2.5",
+        "vegas_formatted_spread": "UNLV -13.5",
+        "over_under": "52.5"
+    },
+    {
+        "home_team": "Old Dominion",
+        "away_team": "James Madison",
+        "predicted_margin": "31.382444",
+        "model_home_spread": "Old Dominion -31.4",
+        "model_away_spread": "James Madison +31.4",
+        "vegas_formatted_spread": "James Madison -6.5",
+        "over_under": "42.5"
+    },
+    {
+        "home_team": "Charlotte",
+        "away_team": "Louisiana",
+        "predicted_margin": "6.0551305",
+        "model_home_spread": "Charlotte -6.1",
+        "model_away_spread": "Louisiana +6.1",
+        "vegas_formatted_spread": "Louisiana -10",
+        "over_under": "49.5"
+    },
+    {
+        "home_team": "Nevada",
+        "away_team": "Air Force",
+        "predicted_margin": "7.4109764",
+        "model_home_spread": "Nevada -7.4",
+        "model_away_spread": "Air Force +7.4",
+        "vegas_formatted_spread": "Air Force -5.5",
+        "over_under": "50.5"
+    },
+    {
+        "home_team": "Toledo",
+        "away_team": "San Diego State",
+        "predicted_margin": "11.990987",
+        "model_home_spread": "Toledo -12.0",
+        "model_away_spread": "San Diego State +12.0",
+        "vegas_formatted_spread": "Toledo -2.5",
+        "over_under": "50.5"
+    },
+    {
+        "home_team": "Kent State",
+        "away_team": "Ball State",
+        "predicted_margin": "-11.241589",
+        "model_home_spread": "Kent State +11.2",
+        "model_away_spread": "Ball State -11.2",
+        "vegas_formatted_spread": "Kent State -2.5",
+        "over_under": "50.5"
+    },
+    {
+        "home_team": "Virginia",
+        "away_team": "Delaware",
+        "predicted_margin": "9.001609",
+        "model_home_spread": "Virginia -9.0",
+        "model_away_spread": "Delaware +9.0",
+        "vegas_formatted_spread": "Virginia -19.5",
+        "over_under": "52.5"
+    },
+    {
+        "home_team": "NC State",
+        "away_team": "App State",
+        "predicted_margin": "-2.2094073",
+        "model_home_spread": "NC State +2.2",
+        "model_away_spread": "App State -2.2",
+        "vegas_formatted_spread": "NC State -13.5",
+        "over_under": "55.5"
+    },
+    {
+        "home_team": "UTSA",
+        "away_team": "Colorado State",
+        "predicted_margin": "-20.199165",
+        "model_home_spread": "UTSA +20.2",
+        "model_away_spread": "Colorado State -20.2",
+        "vegas_formatted_spread": "UTSA -14.5",
+        "over_under": "56.5"
+    },
+    {
+        "home_team": "Indiana",
+        "away_team": "Northwestern",
+        "predicted_margin": "15.391467",
+        "model_home_spread": "Indiana -15.4",
+        "model_away_spread": "Northwestern +15.4",
+        "vegas_formatted_spread": "Indiana -20.5",
+        "over_under": "49.5"
+    },
+    {
+        "home_team": "Fresno State",
+        "away_team": "Rice",
+        "predicted_margin": "1.343908",
+        "model_home_spread": "Fresno State -1.3",
+        "model_away_spread": "Rice +1.3",
+        "vegas_formatted_spread": "Fresno State -13.5",
+        "over_under": "43.5"
+    },
+    {
+        "home_team": "Purdue",
+        "away_team": "Notre Dame",
+        "predicted_margin": "36.929127",
+        "model_home_spread": "Purdue -36.9",
+        "model_away_spread": "Notre Dame +36.9",
+        "vegas_formatted_spread": "Notre Dame -27.5",
+        "over_under": "57.5"
+    },
+    {
+        "home_team": "Temple",
+        "away_team": "Army",
+        "predicted_margin": "6.778221",
+        "model_home_spread": "Temple -6.8",
+        "model_away_spread": "Army +6.8",
+        "vegas_formatted_spread": "Army -4.0",
+        "over_under": "48.5"
+    },
+    {
+        "home_team": "California",
+        "away_team": "Clemson",
+        "predicted_margin": "-1.6576142",
+        "model_home_spread": "California +1.7",
+        "model_away_spread": "Clemson -1.7",
+        "vegas_formatted_spread": "Clemson -2.5",
+        "over_under": "52.5"
+    },
+    {
+        "home_team": "Georgia State",
+        "away_team": "Northern Illinois",
+        "predicted_margin": "18.560633",
+        "model_home_spread": "Georgia State -18.6",
+        "model_away_spread": "Northern Illinois +18.6",
+        "vegas_formatted_spread": "Georgia State -10.5",
+        "over_under": "56.5"
+    },
+    {
+        "home_team": "Arkansas",
+        "away_team": "Tulsa",
+        "predicted_margin": "16.278858",
+        "model_home_spread": "Arkansas -16.3",
+        "model_away_spread": "Tulsa +16.3",
+        "vegas_formatted_spread": "Arkansas -7",
+        "over_under": "50.5"
+    },
+    {
+        "home_team": "UTEP",
+        "away_team": "Oregon State",
+        "predicted_margin": "4.422175",
+        "model_home_spread": "UTEP -4.4",
+        "model_away_spread": "Oregon State +4.4",
+        "vegas_formatted_spread": "Oregon State -11.5",
+        "over_under": "56.5"
+    },
+    {
+        "home_team": "Sacramento State",
+        "away_team": "Massachusetts",
+        "predicted_margin": "34.827145",
+        "model_home_spread": "Sacramento State -34.8",
+        "model_away_spread": "Massachusetts +34.8",
+        "vegas_formatted_spread": "Massachusetts -4.5",
+        "over_under": "48.5"
+    },
+    {
+        "home_team": "UL Monroe",
+        "away_team": "Florida Atlantic",
+        "predicted_margin": "-2.3319285",
+        "model_home_spread": "UL Monroe +2.3",
+        "model_away_spread": "Florida Atlantic -2.3",
+        "vegas_formatted_spread": "Florida Atlantic -11.5",
+        "over_under": "58.5"
+    },
+    {
+        "home_team": "SMU",
+        "away_team": "Missouri State",
+        "predicted_margin": "-9.071238",
+        "model_home_spread": "SMU +9.1",
+        "model_away_spread": "Missouri State -9.1",
+        "vegas_formatted_spread": "SMU -32.5",
+        "over_under": "60.5"
+    },
+    {
+        "home_team": "Cincinnati",
+        "away_team": "Kansas State",
+        "predicted_margin": "19.543966",
+        "model_home_spread": "Cincinnati -19.5",
+        "model_away_spread": "Kansas State +19.5",
+        "vegas_formatted_spread": "Kansas State -6",
+        "over_under": "55.5"
+    },
+    {
+        "home_team": "Tulane",
+        "away_team": "Southern Miss",
+        "predicted_margin": "0.5461831",
+        "model_home_spread": "Tulane -0.5",
+        "model_away_spread": "Southern Miss +0.5",
+        "vegas_formatted_spread": "Tulane -17.5",
+        "over_under": "52.5"
+    },
+    {
+        "home_team": "Arkansas State",
+        "away_team": "Kennesaw State",
+        "predicted_margin": "-4.1103935",
+        "model_home_spread": "Arkansas State +4.1",
+        "model_away_spread": "Kennesaw State -4.1",
+        "vegas_formatted_spread": "Arkansas State -6.5",
+        "over_under": "53.5"
+    },
+    {
+        "home_team": "Jacksonville State",
+        "away_team": "Middle Tennessee",
+        "predicted_margin": "10.45586",
+        "model_home_spread": "Jacksonville State -10.5",
+        "model_away_spread": "Middle Tennessee +10.5",
+        "vegas_formatted_spread": "Jacksonville State -7.5",
+        "over_under": "51.5"
+    }
+]
